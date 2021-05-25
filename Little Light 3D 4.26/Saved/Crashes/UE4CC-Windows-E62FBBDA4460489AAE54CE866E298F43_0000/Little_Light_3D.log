@@ -1,0 +1,1198 @@
+﻿Log file open, 03/25/21 13:37:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Little_Light_3D
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.067911
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic game/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Engine.ini]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Engine.ini]
+[2021.03.25-06.37.07:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Engine.ini]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.25-06.37.07:157][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Engine.ini]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.25-06.37.07:158][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Engine.ini]
+[2021.03.25-06.37.07:158][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Engine.ini]
+[2021.03.25-06.37.07:160][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.25-06.37.07:160][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.25-06.37.07:161][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.25-06.37.07:161][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.25-06.37.07:161][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.03.25-06.37.07:161][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.25-06.37.07:161][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.25-06.37.07:161][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:161][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.25-06.37.07:161][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.25-06.37.07:161][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.25-06.37.07:161][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.25-06.37.07:163][  0]LogHAL: Display: Platform has ~ 16 GB [17031024640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.25-06.37.07:163][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.25-06.37.07:163][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.25-06.37.07:163][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.25-06.37.07:164][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Config/Windows/Engine.ini]
+[2021.03.25-06.37.07:164][  0]LogInit: Computer: OBSERVER
+[2021.03.25-06.37.07:164][  0]LogInit: User: ObserveR
+[2021.03.25-06.37.07:164][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.25-06.37.07:164][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.25-06.37.07:164][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.25-06.37.07:164][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.25-06.37.07:164][  0]LogMemory: Process Physical Memory: 103.44 MB used, 103.44 MB peak
+[2021.03.25-06.37.07:164][  0]LogMemory: Process Virtual Memory: 92.05 MB used, 92.05 MB peak
+[2021.03.25-06.37.07:164][  0]LogMemory: Physical Memory: 9934.85 MB used,  6307.20 MB free, 16242.05 MB total
+[2021.03.25-06.37.07:164][  0]LogMemory: Virtual Memory: 4677.34 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2021.03.25-06.37.07:167][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.25-06.37.07:198][  0]LogInit: Using OS detected language (en-US).
+[2021.03.25-06.37.07:198][  0]LogInit: Using OS detected locale (th-TH).
+[2021.03.25-06.37.07:199][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.25-06.37.07:342][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.25-06.37.07:367][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.25-06.37.07:367][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.25-06.37.07:479][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.25-06.37.07:479][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.25-06.37.07:536][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.03.25-06.37.07:536][  0]LogD3D11RHI:       6052/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.25-06.37.07:556][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.03.25-06.37.07:556][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.03.25-06.37.07:558][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.25-06.37.07:558][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.25-06.37.07:558][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.25-06.37.07:565][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.25-06.37.07:565][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.25-06.37.07:565][  0]LogWindows: EnumDisplayDevices:
+[2021.03.25-06.37.07:566][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.25-06.37.07:566][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.25-06.37.07:566][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.25-06.37.07:566][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.03.25-06.37.07:567][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.03.25-06.37.07:567][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.03.25-06.37.07:567][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.03.25-06.37.07:567][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.03.25-06.37.07:567][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.03.25-06.37.07:567][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.03.25-06.37.07:567][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.03.25-06.37.07:567][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.03.25-06.37.07:603][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.25-06.37.07:614][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.25-06.37.07:856][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.03.25-06.37.07:862][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.03.25-06.37.07:869][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.03.25-06.37.07:875][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.03.25-06.37.07:881][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.03.25-06.37.07:887][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.03.25-06.37.07:893][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.25-06.37.07:899][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.03.25-06.37.07:901][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.03.25-06.37.07:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.03.25-06.37.07:931][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.03.25-06.37.07:944][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.03.25-06.37.07:944][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.03.25-06.37.07:959][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.03.25-06.37.07:959][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.03.25-06.37.07:965][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.03.25-06.37.07:971][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.25-06.37.07:976][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.03.25-06.37.07:984][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.03.25-06.37.08:005][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.03.25-06.37.08:005][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.03.25-06.37.08:005][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.25-06.37.08:010][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.25-06.37.08:042][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Intermediate/Shaders/WorkingDirectory/13276/).
+[2021.03.25-06.37.08:042][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ObserveR/AppData/Local/Temp/UnrealShaderWorkingDir/4448E6DA455CE55DA2C64D8A612EF2A8/'.
+[2021.03.25-06.37.08:044][  0]LogXGEController: Cleaning working directory: C:/Users/ObserveR/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.03.25-06.37.08:044][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.25-06.37.08:044][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.25-06.37.08:044][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.25-06.37.08:551][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.25-06.37.08:601][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/ObserveR/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.03.25-06.37.08:601][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ObserveR/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2021.03.25-06.37.08:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.25-06.37.08:601][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.25-06.37.08:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.25-06.37.08:601][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.25-06.37.08:610][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.25-06.37.08:610][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.25-06.37.08:610][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.25-06.37.08:612][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ObserveR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.25-06.37.08:612][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.25-06.37.08:612][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.25-06.37.08:630][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.03.25-06.37.08:633][  0]LogSlate: Using FreeType 2.6.0
+[2021.03.25-06.37.08:633][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.25-06.37.08:676][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.03.25-06.37.08:900][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.25-06.37.09:017][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.25-06.37.09:017][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.25-06.37.09:017][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.25-06.37.09:017][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.25-06.37.09:017][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.25-06.37.09:025][  0]LogNetVersion: Little_Light_3D 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1649970211)
+[2021.03.25-06.37.09:369][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.045640 seconds
+[2021.03.25-06.37.09:375][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2021.03.25-06.37.09:375][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2021.03.25-06.37.09:375][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.25-06.37.10:006][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.25-06.37.10:008][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.25-06.37.10:049][  0]SourceControl: Source control is disabled
+[2021.03.25-06.37.10:049][  0]SourceControl: Source control is disabled
+[2021.03.25-06.37.10:050][  0]SourceControl: Source control is disabled
+[2021.03.25-06.37.10:051][  0]SourceControl: Source control is disabled
+[2021.03.25-06.37.10:120][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.25-06.37.10:394][  0]LogOcInput: OculusInput pre-init called
+[2021.03.25-06.37.10:398][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.25-06.37.10:399][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.25-06.37.10:453][  0]LogEngine: Initializing Engine...
+[2021.03.25-06.37.10:453][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.25-06.37.10:454][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.25-06.37.10:644][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.25-06.37.10:652][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.25-06.37.10:703][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-06.37.10:725][  0]LogInit: FAudioDevice initialized.
+[2021.03.25-06.37.10:725][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.25-06.37.10:819][  0]LogDerivedDataCache: Saved boot cache 0.10s 73MB C:/Users/ObserveR/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.03.25-06.37.10:826][  0]LogInit: Texture streaming: Enabled
+[2021.03.25-06.37.10:839][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.25-06.37.10:839][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.25-06.37.10:846][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.25-06.37.10:910][  0]LogInit: Transaction tracking system initialized
+[2021.03.25-06.37.10:927][  0]BlueprintLog: New page: Editor Load
+[2021.03.25-06.37.10:973][  0]LocalizationService: Localization service is disabled
+[2021.03.25-06.37.11:143][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.25-06.37.11:143][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.25-06.37.11:275][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/' took 0.01s
+[2021.03.25-06.37.11:276][  0]SourceControl: Source control is disabled
+[2021.03.25-06.37.11:276][  0]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-06.37.11:276][  0]LogEditorServer: Warning: Can't find file 'C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.25-06.37.11:276][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-06.37.11:276][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2021.03.25-06.37.11:276][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2021.03.25-06.37.11:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.37.11:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.37.11:384][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.37.11:390][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.37.11:394][  0]LogCollectionManager: Loaded 0 collections in 0.000771 seconds
+[2021.03.25-06.37.11:398][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/Collections/' took 0.00s
+[2021.03.25-06.37.11:398][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Developers/ObserveR/Collections/' took 0.00s
+[2021.03.25-06.37.11:398][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Collections/' took 0.00s
+[2021.03.25-06.37.11:398][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.03.25-06.37.11:405][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2863 classes and 680 folders.
+[2021.03.25-06.37.11:409][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.25-06.37.11:432][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.25-06.37.11:435][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.03.25-06.37.11:485][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.25-06.37.11:486][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.25-06.37.11:489][  0]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.25-06.37.11:538][  0]LogRenderer: Reallocating scene render targets to support 1060x572 Format 10 NumSamples 1 (Frame:1).
+[2021.03.25-06.37.11:601][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.25-06.37.11:601][  0]LogLoad: (Engine Initialization) Total time: 5.11 seconds
+[2021.03.25-06.37.11:601][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.25-06.37.11:651][  0]LogAssetRegistry: Asset discovery search completed in 2.9750 seconds
+[2021.03.25-06.37.11:653][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2021.03.25-06.37.11:653][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2021.03.25-06.37.11:654][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.25-06.37.11:681][  0]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.25-06.37.12:955][  4]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.25-06.41.12:307][717]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C7DBFB17-4D02-2035-8A44-BE9E8818446F}
+[2021.03.25-06.42.30:515][950]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.25-06.42.30:515][950]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.25-06.42.32:121][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-06.42.32:242][141]LogRenderer: Reallocating scene render targets to support 1068x572 Format 10 NumSamples 1 (Frame:182).
+[2021.03.25-06.42.32:264][142]LogRenderer: Reallocating scene render targets to support 1076x572 Format 10 NumSamples 1 (Frame:184).
+[2021.03.25-06.42.32:279][143]LogRenderer: Reallocating scene render targets to support 1092x572 Format 10 NumSamples 1 (Frame:186).
+[2021.03.25-06.42.32:296][144]LogRenderer: Reallocating scene render targets to support 1108x572 Format 10 NumSamples 1 (Frame:188).
+[2021.03.25-06.42.32:310][145]LogRenderer: Reallocating scene render targets to support 1124x572 Format 10 NumSamples 1 (Frame:190).
+[2021.03.25-06.42.32:333][146]LogRenderer: Reallocating scene render targets to support 1136x572 Format 10 NumSamples 1 (Frame:192).
+[2021.03.25-06.42.32:349][147]LogRenderer: Reallocating scene render targets to support 1160x572 Format 10 NumSamples 1 (Frame:194).
+[2021.03.25-06.42.32:363][148]LogRenderer: Reallocating scene render targets to support 1180x572 Format 10 NumSamples 1 (Frame:196).
+[2021.03.25-06.42.32:379][149]LogRenderer: Reallocating scene render targets to support 1196x572 Format 10 NumSamples 1 (Frame:198).
+[2021.03.25-06.42.32:396][150]LogRenderer: Reallocating scene render targets to support 1212x572 Format 10 NumSamples 1 (Frame:200).
+[2021.03.25-06.42.32:412][151]LogRenderer: Reallocating scene render targets to support 1228x572 Format 10 NumSamples 1 (Frame:202).
+[2021.03.25-06.42.32:431][152]LogRenderer: Reallocating scene render targets to support 1240x572 Format 10 NumSamples 1 (Frame:204).
+[2021.03.25-06.42.32:447][153]LogRenderer: Reallocating scene render targets to support 1248x572 Format 10 NumSamples 1 (Frame:206).
+[2021.03.25-06.42.35:940][498]LogAIModule: Creating AISystem for world LevelDesign1
+[2021.03.25-06.42.35:963][498]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/LevelDesign1.LevelDesign1
+[2021.03.25-06.42.35:994][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.03.25-06.42.35:994][498]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Maps/LevelDesign1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-06.42.35:994][498]LightingResults: New page: Lighting Build
+[2021.03.25-06.42.35:996][498]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2021.03.25-06.42.35:996][498]LoadErrors: New page: Loading map: LevelDesign1.umap
+[2021.03.25-06.42.35:996][498]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.42.35:997][498]MapCheck: New page: Map Check
+[2021.03.25-06.42.35:997][498]LightingResults: New page: Lighting Build
+[2021.03.25-06.42.36:018][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.03.25-06.42.36:093][498]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-06.42.36:119][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.03.25-06.42.36:166][498]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-06.42.36:167][498]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.299ms to complete.
+[2021.03.25-06.42.36:167][498]LogFileHelpers: Loading map 'LevelDesign1' took 0.173
+[2021.03.25-06.43.19:920][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-06.43.20:010][289]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-06.43.20:036][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-06.43.20:037][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-06.43.20:037][289]PIE: New page: PIE session: LevelDesign1 (25 มี.ค. 2021 20:43:20)
+[2021.03.25-06.43.20:037][289]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.25-06.43.20:038][289]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign1
+[2021.03.25-06.43.20:061][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022528s)
+[2021.03.25-06.43.20:062][289]LogAIModule: Creating AISystem for world LevelDesign1
+[2021.03.25-06.43.20:062][289]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2021.03.25-06.43.20:062][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign1.LevelDesign1 to /Game/Maps/UEDPIE_0_LevelDesign1.LevelDesign1 (0.023704s)
+[2021.03.25-06.43.20:090][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.03.25-06.43.20:117][289]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-06.43.20:132][289]LogInit: FAudioDevice initialized.
+[2021.03.25-06.43.20:139][289]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-06.43.20:141][289]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign1.LevelDesign1 up for play (max tick rate 0) at 2021.03.25-13.43.20
+[2021.03.25-06.43.20:143][289]LogWorld: Bringing up level for play took: 0.002565
+[2021.03.25-06.43.20:143][289]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.03.25-06.43.20:147][289]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2021.03.25-06.43.20:150][289]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelDesign1 -0.762
+[2021.03.25-06.43.20:150][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-06.43.54:273][380]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-06.43.54:824][444]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-06.43.55:166][485]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-06.43.56:408][634]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-06.43.56:416][635]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-06.43.56:416][635]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-06.44.09:429][196]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-06.44.09:729][232]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-06.44.20:607][537]LogBlueprintUserMessages: [Door_NextLevel_2] ChangeScene
+[2021.03.25-06.44.21:605][644]LogBlueprintUserMessages: [Door_NextLevel_2] NewScene
+[2021.03.25-06.44.21:643][645]LogNet: Browse: /Game/Maps/Lvltest3
+[2021.03.25-06.44.21:643][645]LogLoad: LoadMap: /Game/Maps/Lvltest3
+[2021.03.25-06.44.21:643][645]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign1
+[2021.03.25-06.44.21:645][645]LogWorld: UWorld::CleanupWorld for LevelDesign1, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.44.21:668][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.03.25-06.44.22:477][645]LogAIModule: Creating AISystem for world Lvltest3
+[2021.03.25-06.44.22:477][645]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-06.44.22:551][645]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvltest3.Lvltest3 up for play (max tick rate 0) at 2021.03.25-13.44.22
+[2021.03.25-06.44.22:614][645]LogWorld: Bringing up level for play took: 0.135068
+[2021.03.25-06.44.22:623][645]LogLoad: Took 0.979276 seconds to LoadMap(/Game/Maps/Lvltest3)
+[2021.03.25-06.44.34:015][990]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.44.50:331][945]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.44.59:709][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-06.44.59:709][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.44.59:709][ 67]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lvltest3
+[2021.03.25-06.44.59:709][ 67]LogWorld: UWorld::CleanupWorld for Lvltest3, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.44.59:731][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-06.44.59:731][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-06.44.59:757][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.44.59:761][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.03.25-06.44.59:788][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.03.25-06.46.13:898][494]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.25-06.46.16:876][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-06.46.16:975][820]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-06.46.17:000][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-06.46.17:000][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-06.46.17:000][820]PIE: New page: PIE session: LevelDesign1 (25 มี.ค. 2021 20:46:17)
+[2021.03.25-06.46.17:000][820]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign1
+[2021.03.25-06.46.17:019][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018753s)
+[2021.03.25-06.46.17:020][820]LogAIModule: Creating AISystem for world LevelDesign1
+[2021.03.25-06.46.17:020][820]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2021.03.25-06.46.17:021][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign1.LevelDesign1 to /Game/Maps/UEDPIE_0_LevelDesign1.LevelDesign1 (0.019985s)
+[2021.03.25-06.46.17:045][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.03.25-06.46.17:070][820]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-06.46.17:085][820]LogInit: FAudioDevice initialized.
+[2021.03.25-06.46.17:094][820]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-06.46.17:096][820]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign1.LevelDesign1 up for play (max tick rate 0) at 2021.03.25-13.46.17
+[2021.03.25-06.46.17:097][820]LogWorld: Bringing up level for play took: 0.001477
+[2021.03.25-06.46.17:097][820]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.03.25-06.46.17:100][820]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelDesign1 0.188
+[2021.03.25-06.46.17:100][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-06.46.26:107][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-06.46.26:107][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.46.26:107][898]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign1
+[2021.03.25-06.46.26:107][898]LogWorld: UWorld::CleanupWorld for LevelDesign1, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.46.26:117][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-06.46.26:118][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-06.46.26:143][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.46.26:145][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.03.25-06.46.26:214][904]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.03.25-06.48.48:292][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-06.48.48:509][114]LogAIModule: Creating AISystem for world Lvltest3
+[2021.03.25-06.48.48:541][114]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Lvltest3.Lvltest3
+[2021.03.25-06.48.48:563][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.03.25-06.48.48:564][114]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Maps/Lvltest3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-06.48.48:564][114]LightingResults: New page: Lighting Build
+[2021.03.25-06.48.48:564][114]LoadErrors: New page: Loading map: Lvltest3.umap
+[2021.03.25-06.48.48:565][114]LogWorld: UWorld::CleanupWorld for LevelDesign1, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.48.48:566][114]MapCheck: New page: Map Check
+[2021.03.25-06.48.48:566][114]LightingResults: New page: Lighting Build
+[2021.03.25-06.48.48:589][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.03.25-06.48.48:718][114]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-06.48.48:752][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.03.25-06.48.48:801][114]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-06.48.48:801][114]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2021.03.25-06.48.48:801][114]LogFileHelpers: Loading map 'Lvltest3' took 0.237
+[2021.03.25-06.48.49:883][234]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-06.48.49:909][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-06.48.49:909][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-06.48.49:909][234]PIE: New page: PIE session: Lvltest3 (25 มี.ค. 2021 20:48:49)
+[2021.03.25-06.48.49:909][234]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvltest3
+[2021.03.25-06.48.49:975][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065673s)
+[2021.03.25-06.48.49:975][234]LogAIModule: Creating AISystem for world Lvltest3
+[2021.03.25-06.48.49:976][234]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2021.03.25-06.48.49:976][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvltest3.Lvltest3 to /Game/Maps/UEDPIE_0_Lvltest3.Lvltest3 (0.066802s)
+[2021.03.25-06.48.49:999][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.03.25-06.48.50:025][234]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-06.48.50:039][234]LogInit: FAudioDevice initialized.
+[2021.03.25-06.48.50:047][234]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-06.48.50:049][234]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvltest3.Lvltest3 up for play (max tick rate 0) at 2021.03.25-13.48.50
+[2021.03.25-06.48.50:050][234]LogWorld: Bringing up level for play took: 0.002875
+[2021.03.25-06.48.50:050][234]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.03.25-06.48.50:054][234]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lvltest3 1.142
+[2021.03.25-06.48.50:054][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-06.49.09:776][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-06.49.09:777][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.49.09:777][596]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lvltest3
+[2021.03.25-06.49.09:777][596]LogWorld: UWorld::CleanupWorld for Lvltest3, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.49.09:784][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-06.49.09:785][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-06.49.09:812][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.49.09:815][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.03.25-06.49.09:875][600]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.03.25-06.49.17:447][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-06.49.17:625][520]LogAIModule: Creating AISystem for world LevelDesign1
+[2021.03.25-06.49.17:647][520]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/LevelDesign1.LevelDesign1
+[2021.03.25-06.49.17:669][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.03.25-06.49.17:670][520]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Maps/LevelDesign1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-06.49.17:670][520]LightingResults: New page: Lighting Build
+[2021.03.25-06.49.17:671][520]LoadErrors: New page: Loading map: LevelDesign1.umap
+[2021.03.25-06.49.17:671][520]LogWorld: UWorld::CleanupWorld for Lvltest3, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.49.17:672][520]MapCheck: New page: Map Check
+[2021.03.25-06.49.17:672][520]LightingResults: New page: Lighting Build
+[2021.03.25-06.49.17:697][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.03.25-06.49.17:822][520]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-06.49.17:847][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.03.25-06.49.17:894][520]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-06.49.17:894][520]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2021.03.25-06.49.17:894][520]LogFileHelpers: Loading map 'LevelDesign1' took 0.225
+[2021.03.25-06.49.19:851][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-06.49.20:180][762]LogAIModule: Creating AISystem for world LevelDesign1Test
+[2021.03.25-06.49.20:190][762]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/LevelDesign1Test.LevelDesign1Test
+[2021.03.25-06.49.20:213][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.03.25-06.49.20:214][762]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Maps/LevelDesign1Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-06.49.20:214][762]LightingResults: New page: Lighting Build
+[2021.03.25-06.49.20:214][762]LoadErrors: New page: Loading map: LevelDesign1Test.umap
+[2021.03.25-06.49.20:215][762]LogWorld: UWorld::CleanupWorld for LevelDesign1, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.49.20:216][762]MapCheck: New page: Map Check
+[2021.03.25-06.49.20:216][762]LightingResults: New page: Lighting Build
+[2021.03.25-06.49.20:239][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.03.25-06.49.20:397][762]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-06.49.20:422][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.03.25-06.49.20:467][762]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-06.49.20:467][762]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2021.03.25-06.49.20:467][762]LogFileHelpers: Loading map 'LevelDesign1Test' took 0.254
+[2021.03.25-06.49.21:558][884]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-06.49.21:584][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-06.49.21:585][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-06.49.21:585][884]PIE: New page: PIE session: LevelDesign1Test (25 มี.ค. 2021 20:49:21)
+[2021.03.25-06.49.21:585][884]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign1Test
+[2021.03.25-06.49.21:605][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020653s)
+[2021.03.25-06.49.21:606][884]LogAIModule: Creating AISystem for world LevelDesign1Test
+[2021.03.25-06.49.21:606][884]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2021.03.25-06.49.21:606][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign1Test.LevelDesign1Test to /Game/Maps/UEDPIE_0_LevelDesign1Test.LevelDesign1Test (0.021623s)
+[2021.03.25-06.49.21:629][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.03.25-06.49.21:653][884]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-06.49.21:670][884]LogInit: FAudioDevice initialized.
+[2021.03.25-06.49.21:679][884]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-06.49.21:681][884]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign1Test.LevelDesign1Test up for play (max tick rate 0) at 2021.03.25-13.49.21
+[2021.03.25-06.49.21:681][884]LogWorld: Bringing up level for play took: 0.001428
+[2021.03.25-06.49.21:681][884]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.03.25-06.49.21:685][884]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelDesign1Test 0.774
+[2021.03.25-06.49.21:686][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-06.49.27:375][564]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-06.49.27:375][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.49.27:375][564]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign1Test
+[2021.03.25-06.49.27:375][564]LogWorld: UWorld::CleanupWorld for LevelDesign1Test, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.49.27:387][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-06.49.27:387][564]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-06.49.27:415][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.49.27:418][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.03.25-06.49.27:477][569]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.03.25-06.50.26:545][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-06.50.26:760][630]LogAIModule: Creating AISystem for world Lvltest3
+[2021.03.25-06.50.26:770][630]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Lvltest3.Lvltest3
+[2021.03.25-06.50.26:794][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.03.25-06.50.26:795][630]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Maps/Lvltest3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-06.50.26:795][630]LightingResults: New page: Lighting Build
+[2021.03.25-06.50.26:795][630]LoadErrors: New page: Loading map: Lvltest3.umap
+[2021.03.25-06.50.26:796][630]LogWorld: UWorld::CleanupWorld for LevelDesign1Test, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.50.26:797][630]MapCheck: New page: Map Check
+[2021.03.25-06.50.26:797][630]LightingResults: New page: Lighting Build
+[2021.03.25-06.50.26:818][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.03.25-06.50.27:016][630]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-06.50.27:044][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.03.25-06.50.27:091][630]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-06.50.27:091][630]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2021.03.25-06.50.27:091][630]LogFileHelpers: Loading map 'Lvltest3' took 0.296
+[2021.03.25-06.50.30:041][975]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-06.50.30:065][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-06.50.30:065][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-06.50.30:065][975]PIE: New page: PIE session: Lvltest3 (25 มี.ค. 2021 20:50:30)
+[2021.03.25-06.50.30:065][975]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvltest3
+[2021.03.25-06.50.30:115][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049379s)
+[2021.03.25-06.50.30:115][975]LogAIModule: Creating AISystem for world Lvltest3
+[2021.03.25-06.50.30:116][975]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2021.03.25-06.50.30:116][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvltest3.Lvltest3 to /Game/Maps/UEDPIE_0_Lvltest3.Lvltest3 (0.050727s)
+[2021.03.25-06.50.30:140][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.03.25-06.50.30:163][975]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-06.50.30:177][975]LogInit: FAudioDevice initialized.
+[2021.03.25-06.50.30:187][975]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-06.50.30:189][975]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvltest3.Lvltest3 up for play (max tick rate 0) at 2021.03.25-13.50.30
+[2021.03.25-06.50.30:190][975]LogWorld: Bringing up level for play took: 0.002748
+[2021.03.25-06.50.30:190][975]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.03.25-06.50.30:194][975]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lvltest3 -0.718
+[2021.03.25-06.50.30:194][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-06.50.53:202][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.51.52:753][876]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.57.08:344][998]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.57.12:487][495]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.57.15:896][904]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.57.27:556][301]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.57.32:366][878]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.57.39:566][742]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.57.43:066][162]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.57.53:168][374]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.57.59:927][185]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.58.03:361][597]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.58.06:070][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.58.11:137][530]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.58.14:563][941]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.58.27:324][470]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.58.29:473][728]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.58.33:777][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-06.58.33:778][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.58.33:778][  8]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lvltest3
+[2021.03.25-06.58.33:778][  8]LogWorld: UWorld::CleanupWorld for Lvltest3, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-06.58.33:790][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-06.58.33:790][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-06.58.33:821][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-06.58.33:824][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.03.25-06.58.33:884][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.03.25-06.58.35:386][153]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.25-06.58.36:639][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-06.58.36:714][300]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-06.58.36:736][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-06.58.36:736][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-06.58.36:737][300]PIE: New page: PIE session: Lvltest3 (25 มี.ค. 2021 20:58:36)
+[2021.03.25-06.58.36:737][300]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvltest3
+[2021.03.25-06.58.36:782][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045169s)
+[2021.03.25-06.58.36:783][300]LogAIModule: Creating AISystem for world Lvltest3
+[2021.03.25-06.58.36:783][300]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2021.03.25-06.58.36:783][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvltest3.Lvltest3 to /Game/Maps/UEDPIE_0_Lvltest3.Lvltest3 (0.046273s)
+[2021.03.25-06.58.36:807][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.03.25-06.58.36:830][300]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-06.58.36:843][300]LogInit: FAudioDevice initialized.
+[2021.03.25-06.58.36:851][300]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-06.58.36:853][300]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvltest3.Lvltest3 up for play (max tick rate 0) at 2021.03.25-13.58.36
+[2021.03.25-06.58.36:854][300]LogWorld: Bringing up level for play took: 0.002306
+[2021.03.25-06.58.36:854][300]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.03.25-06.58.36:858][300]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lvltest3 -0.055
+[2021.03.25-06.58.36:858][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-06.59.10:766][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.59.11:857][497]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.59.12:266][546]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.59.15:132][890]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-06.59.17:675][195]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.04:479][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.04:762][118]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.04:928][138]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.05:087][157]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.05:237][175]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.05:395][194]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.05:554][213]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.05:704][231]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.05:853][249]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.06:245][296]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.06:720][353]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.06:937][379]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.07:212][412]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.07:412][436]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.11.32:159][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-07.11.34:378][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-07.11.34:378][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.11.34:378][193]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lvltest3
+[2021.03.25-07.11.34:378][193]LogWorld: UWorld::CleanupWorld for Lvltest3, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.11.34:387][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-07.11.34:388][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-07.11.34:415][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.11.34:418][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.03.25-07.11.34:481][200]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.03.25-07.11.36:060][384]LogAIModule: Creating AISystem for world LevelDesign1Test
+[2021.03.25-07.11.36:079][384]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/LevelDesign1Test.LevelDesign1Test
+[2021.03.25-07.11.36:101][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.03.25-07.11.36:102][384]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Maps/LevelDesign1Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-07.11.36:102][384]LightingResults: New page: Lighting Build
+[2021.03.25-07.11.36:102][384]LoadErrors: New page: Loading map: LevelDesign1Test.umap
+[2021.03.25-07.11.36:103][384]LogWorld: UWorld::CleanupWorld for Lvltest3, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.11.36:104][384]MapCheck: New page: Map Check
+[2021.03.25-07.11.36:104][384]LightingResults: New page: Lighting Build
+[2021.03.25-07.11.36:129][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.03.25-07.11.36:329][384]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-07.11.36:356][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.03.25-07.11.36:404][384]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-07.11.36:404][384]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2021.03.25-07.11.36:404][384]LogFileHelpers: Loading map 'LevelDesign1Test' took 0.303
+[2021.03.25-07.11.37:762][534]LogAIModule: Creating AISystem for world LevelDesign1
+[2021.03.25-07.11.37:773][534]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/LevelDesign1.LevelDesign1
+[2021.03.25-07.11.37:797][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.03.25-07.11.37:798][534]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Maps/LevelDesign1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-07.11.37:798][534]LightingResults: New page: Lighting Build
+[2021.03.25-07.11.37:798][534]LoadErrors: New page: Loading map: LevelDesign1.umap
+[2021.03.25-07.11.37:799][534]LogWorld: UWorld::CleanupWorld for LevelDesign1Test, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.11.37:799][534]MapCheck: New page: Map Check
+[2021.03.25-07.11.37:799][534]LightingResults: New page: Lighting Build
+[2021.03.25-07.11.37:822][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.03.25-07.11.38:062][534]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-07.11.38:087][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.03.25-07.11.38:135][534]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-07.11.38:135][534]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2021.03.25-07.11.38:135][534]LogFileHelpers: Loading map 'LevelDesign1' took 0.338
+[2021.03.25-07.11.38:835][608]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-07.11.38:859][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-07.11.38:859][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-07.11.38:859][608]PIE: New page: PIE session: LevelDesign1 (25 มี.ค. 2021 21:11:38)
+[2021.03.25-07.11.38:859][608]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign1
+[2021.03.25-07.11.38:876][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017192s)
+[2021.03.25-07.11.38:876][608]LogAIModule: Creating AISystem for world LevelDesign1
+[2021.03.25-07.11.38:877][608]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2021.03.25-07.11.38:877][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign1.LevelDesign1 to /Game/Maps/UEDPIE_0_LevelDesign1.LevelDesign1 (0.018066s)
+[2021.03.25-07.11.38:899][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.03.25-07.11.38:922][608]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-07.11.38:936][608]LogInit: FAudioDevice initialized.
+[2021.03.25-07.11.38:944][608]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-07.11.38:946][608]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign1.LevelDesign1 up for play (max tick rate 0) at 2021.03.25-14.11.38
+[2021.03.25-07.11.38:947][608]LogWorld: Bringing up level for play took: 0.001550
+[2021.03.25-07.11.38:947][608]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.03.25-07.11.38:951][608]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelDesign1 0.039
+[2021.03.25-07.11.38:951][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-07.11.48:480][749]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.11.49:004][812]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.11.49:367][853]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.11.51:864][153]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.11.51:864][153]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.11.51:872][154]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.11.56:022][652]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.11.56:030][653]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.11.56:039][654]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.11.56:614][723]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.11.56:864][753]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.00:316][167]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.12.01:039][254]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.12.02:015][371]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.05:032][733]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.12.05:682][811]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.12.06:341][890]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.07:366][ 13]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.12.07:424][ 20]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.12.08:115][103]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.12.09:008][210]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.12:176][590]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.12.12:675][650]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.12.13:742][778]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.13:750][779]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.12.13:750][779]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.23:260][920]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.12.23:744][978]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.12.24:085][ 19]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.12.29:261][640]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.29:861][712]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.12.29:869][713]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.29:869][713]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.12.32:278][  2]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.32:278][  2]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.12.32:287][  3]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.32:478][ 26]LogBlueprintUserMessages: [Koopa_BP_2] Hello
+[2021.03.25-07.12.36:496][508]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.12.38:463][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-07.12.38:463][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.12.38:463][744]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign1
+[2021.03.25-07.12.38:463][744]LogWorld: UWorld::CleanupWorld for LevelDesign1, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.12.38:472][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-07.12.38:472][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-07.12.38:497][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.12.38:500][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.03.25-07.12.38:568][750]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.03.25-07.12.39:245][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-07.12.39:448][848]LogAIModule: Creating AISystem for world Lvltest3
+[2021.03.25-07.12.39:459][848]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Lvltest3.Lvltest3
+[2021.03.25-07.12.39:481][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.03.25-07.12.39:482][848]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Maps/Lvltest3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-07.12.39:482][848]LightingResults: New page: Lighting Build
+[2021.03.25-07.12.39:483][848]LoadErrors: New page: Loading map: Lvltest3.umap
+[2021.03.25-07.12.39:483][848]LogWorld: UWorld::CleanupWorld for LevelDesign1, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.12.39:484][848]MapCheck: New page: Map Check
+[2021.03.25-07.12.39:484][848]LightingResults: New page: Lighting Build
+[2021.03.25-07.12.39:506][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.03.25-07.12.39:791][848]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-07.12.39:816][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.03.25-07.12.39:862][848]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-07.12.39:862][848]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2021.03.25-07.12.39:862][848]LogFileHelpers: Loading map 'Lvltest3' took 0.381
+[2021.03.25-07.12.40:414][904]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-07.12.40:438][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-07.12.40:438][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-07.12.40:438][904]PIE: New page: PIE session: Lvltest3 (25 มี.ค. 2021 21:12:40)
+[2021.03.25-07.12.40:438][904]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvltest3
+[2021.03.25-07.12.40:482][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044446s)
+[2021.03.25-07.12.40:483][904]LogAIModule: Creating AISystem for world Lvltest3
+[2021.03.25-07.12.40:483][904]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2021.03.25-07.12.40:483][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvltest3.Lvltest3 to /Game/Maps/UEDPIE_0_Lvltest3.Lvltest3 (0.045336s)
+[2021.03.25-07.12.40:506][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.03.25-07.12.40:528][904]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-07.12.40:543][904]LogInit: FAudioDevice initialized.
+[2021.03.25-07.12.40:549][904]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-07.12.40:551][904]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvltest3.Lvltest3 up for play (max tick rate 0) at 2021.03.25-14.12.40
+[2021.03.25-07.12.40:551][904]LogWorld: Bringing up level for play took: 0.002126
+[2021.03.25-07.12.40:551][904]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.03.25-07.12.40:555][904]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lvltest3 -0.357
+[2021.03.25-07.12.40:555][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-07.12.46:266][587]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ChangeLight
+[2021.03.25-07.12.58:037][997]LogBlueprintUserMessages: [Koopa_BP2_2] Bye
+[2021.03.25-07.13.02:888][579]LogBlueprintUserMessages: [Koopa_BP2_2] Bye
+[2021.03.25-07.13.06:905][ 61]LogBlueprintUserMessages: [Koopa_BP2_2] Bye
+[2021.03.25-07.13.16:239][181]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.13.17:082][282]LogBlueprintUserMessages: [Koopa_BP_2] Haunting
+[2021.03.25-07.13.20:557][699]LogBlueprintUserMessages: [Koopa_BP_2] Bye
+[2021.03.25-07.13.26:875][457]LogBlueprintUserMessages: [Koopa_BP3_5] Bye
+[2021.03.25-07.13.33:028][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-07.13.33:028][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.13.33:028][195]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lvltest3
+[2021.03.25-07.13.33:028][195]LogWorld: UWorld::CleanupWorld for Lvltest3, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.13.33:040][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-07.13.33:041][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3' with GeneratedClass '/Game/Maps/Lvltest3.Lvltest3_C' with ClassGeneratedBy '/Game/Maps/Lvltest3.Lvltest3:PersistentLevel.Lvltest3'
+[2021.03.25-07.13.33:067][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.13.33:070][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.03.25-07.13.33:128][199]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.03.25-07.25.42:961][277]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.25-07.25.43:933][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-07.25.44:087][404]LogAIModule: Creating AISystem for world LevelDesign1
+[2021.03.25-07.25.44:111][404]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/LevelDesign1.LevelDesign1
+[2021.03.25-07.25.44:136][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.03.25-07.25.44:137][404]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Maps/LevelDesign1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-07.25.44:137][404]LightingResults: New page: Lighting Build
+[2021.03.25-07.25.44:137][404]LoadErrors: New page: Loading map: LevelDesign1.umap
+[2021.03.25-07.25.44:138][404]LogWorld: UWorld::CleanupWorld for Lvltest3, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.25.44:139][404]MapCheck: New page: Map Check
+[2021.03.25-07.25.44:139][404]LightingResults: New page: Lighting Build
+[2021.03.25-07.25.44:164][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.03.25-07.25.44:472][404]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-07.25.44:500][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.03.25-07.25.44:549][404]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-07.25.44:549][404]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.197ms to complete.
+[2021.03.25-07.25.44:549][404]LogFileHelpers: Loading map 'LevelDesign1' took 0.413
+[2021.03.25-07.25.46:301][606]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-07.25.46:325][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-07.25.46:325][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-07.25.46:325][606]PIE: New page: PIE session: LevelDesign1 (25 มี.ค. 2021 21:25:46)
+[2021.03.25-07.25.46:325][606]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign1
+[2021.03.25-07.25.46:346][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021257s)
+[2021.03.25-07.25.46:347][606]LogAIModule: Creating AISystem for world LevelDesign1
+[2021.03.25-07.25.46:347][606]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2021.03.25-07.25.46:347][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign1.LevelDesign1 to /Game/Maps/UEDPIE_0_LevelDesign1.LevelDesign1 (0.022269s)
+[2021.03.25-07.25.46:371][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.03.25-07.25.46:394][606]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-07.25.46:409][606]LogInit: FAudioDevice initialized.
+[2021.03.25-07.25.46:415][606]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-07.25.46:417][606]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign1.LevelDesign1 up for play (max tick rate 0) at 2021.03.25-14.25.46
+[2021.03.25-07.25.46:418][606]LogWorld: Bringing up level for play took: 0.001675
+[2021.03.25-07.25.46:418][606]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.03.25-07.25.46:422][606]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelDesign1 -0.49
+[2021.03.25-07.25.46:422][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-07.25.48:113][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-07.25.48:114][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.25.48:114][806]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign1
+[2021.03.25-07.25.48:114][806]LogWorld: UWorld::CleanupWorld for LevelDesign1, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.25.48:123][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-07.25.48:124][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1' with GeneratedClass '/Game/Maps/LevelDesign1.LevelDesign1_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1.LevelDesign1:PersistentLevel.LevelDesign1'
+[2021.03.25-07.25.48:151][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.25.48:153][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.03.25-07.25.48:217][811]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.03.25-07.25.48:903][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-07.25.49:075][909]LogAIModule: Creating AISystem for world LevelDesign1Test
+[2021.03.25-07.25.49:086][909]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/LevelDesign1Test.LevelDesign1Test
+[2021.03.25-07.25.49:109][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.03.25-07.25.49:110][909]Cmd: MAP LOAD FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Maps/LevelDesign1Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-07.25.49:110][909]LightingResults: New page: Lighting Build
+[2021.03.25-07.25.49:110][909]LoadErrors: New page: Loading map: LevelDesign1Test.umap
+[2021.03.25-07.25.49:111][909]LogWorld: UWorld::CleanupWorld for LevelDesign1, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.25.49:111][909]MapCheck: New page: Map Check
+[2021.03.25-07.25.49:111][909]LightingResults: New page: Lighting Build
+[2021.03.25-07.25.49:134][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.03.25-07.25.49:455][909]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-07.25.49:480][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.03.25-07.25.49:527][909]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-07.25.49:527][909]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2021.03.25-07.25.49:527][909]LogFileHelpers: Loading map 'LevelDesign1Test' took 0.418
+[2021.03.25-07.25.51:223][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-07.25.51:246][ 97]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-07.25.51:247][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-07.25.51:247][ 97]PIE: New page: PIE session: LevelDesign1Test (25 มี.ค. 2021 21:25:51)
+[2021.03.25-07.25.51:247][ 97]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign1Test
+[2021.03.25-07.25.51:266][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019569s)
+[2021.03.25-07.25.51:267][ 97]LogAIModule: Creating AISystem for world LevelDesign1Test
+[2021.03.25-07.25.51:267][ 97]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2021.03.25-07.25.51:267][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign1Test.LevelDesign1Test to /Game/Maps/UEDPIE_0_LevelDesign1Test.LevelDesign1Test (0.020479s)
+[2021.03.25-07.25.51:290][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.03.25-07.25.51:313][ 97]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-07.25.51:327][ 97]LogInit: FAudioDevice initialized.
+[2021.03.25-07.25.51:332][ 97]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-07.25.51:334][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign1Test.LevelDesign1Test up for play (max tick rate 0) at 2021.03.25-14.25.51
+[2021.03.25-07.25.51:335][ 97]LogWorld: Bringing up level for play took: 0.001463
+[2021.03.25-07.25.51:335][ 97]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.25-07.25.51:338][ 97]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelDesign1Test 0.426
+[2021.03.25-07.25.51:338][ 97]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-07.25.54:816][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-07.25.58:469][818]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.25-07.25.58:658][818]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2021.03.25-07.25.59:398][818]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.25-07.25.59:765][819]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.25-07.26.23:805][524]Cmd: SELECT NONE
+[2021.03.25-07.26.25:371][686]Cmd: SELECT NONE
+[2021.03.25-07.26.26:300][797]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-07.26.26:300][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.26.26:300][797]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign1Test
+[2021.03.25-07.26.26:300][797]LogWorld: UWorld::CleanupWorld for LevelDesign1Test, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.26.26:343][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-07.26.26:343][797]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-07.26.26:374][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.26.26:378][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.03.25-07.26.26:415][799]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.25-07.26.27:997][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-07.26.34:428][679]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widget/PlayerInterface.PlayerInterface
+[2021.03.25-07.27.34:155][664]BlueprintLog: New page: Compile PlayerInterface
+[2021.03.25-07.27.34:250][664]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.03.25-07.27.35:767][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/PlayerInterface" FILE="C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Widget/PlayerInterface.uasset" SILENT=true
+[2021.03.25-07.27.35:798][813]LogSavePackage: Moving 'C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Saved/PlayerInterface3E375F854357578DAB953880E353A29D.tmp' to 'C:/Users/ObserveR/Documents/GitHub/A-Little-Light/Little Light 3D/Content/Widget/PlayerInterface.uasset'
+[2021.03.25-07.27.37:662][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-07.27.37:693][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-07.27.37:693][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-07.27.37:693][ 16]PIE: New page: PIE session: LevelDesign1Test (25 มี.ค. 2021 21:27:37)
+[2021.03.25-07.27.37:693][ 16]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign1Test
+[2021.03.25-07.27.37:711][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017440s)
+[2021.03.25-07.27.37:711][ 16]LogAIModule: Creating AISystem for world LevelDesign1Test
+[2021.03.25-07.27.37:711][ 16]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2021.03.25-07.27.37:712][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign1Test.LevelDesign1Test to /Game/Maps/UEDPIE_0_LevelDesign1Test.LevelDesign1Test (0.018410s)
+[2021.03.25-07.27.37:752][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.03.25-07.27.37:774][ 16]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-07.27.37:788][ 16]LogInit: FAudioDevice initialized.
+[2021.03.25-07.27.37:799][ 16]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-07.27.37:800][ 16]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign1Test.LevelDesign1Test up for play (max tick rate 0) at 2021.03.25-14.27.37
+[2021.03.25-07.27.37:801][ 16]LogWorld: Bringing up level for play took: 0.001270
+[2021.03.25-07.27.37:801][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.03.25-07.27.37:804][ 16]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelDesign1Test 0.892
+[2021.03.25-07.27.37:804][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-07.27.45:410][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-07.27.45:410][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.27.45:410][925]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelDesign1Test
+[2021.03.25-07.27.45:411][925]LogWorld: UWorld::CleanupWorld for LevelDesign1Test, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-07.27.45:419][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-07.27.45:419][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-07.27.45:456][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-07.27.45:459][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.03.25-07.27.45:511][929]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.03.25-07.27.53:461][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.25-07.27.53:561][892]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-07.27.53:593][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-07.27.53:593][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-07.27.53:593][892]PIE: New page: PIE session: LevelDesign1Test (25 มี.ค. 2021 21:27:53)
+[2021.03.25-07.27.53:593][892]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelDesign1Test
+[2021.03.25-07.27.53:610][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016920s)
+[2021.03.25-07.27.53:611][892]LogAIModule: Creating AISystem for world LevelDesign1Test
+[2021.03.25-07.27.53:611][892]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2021.03.25-07.27.53:611][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelDesign1Test.LevelDesign1Test to /Game/Maps/UEDPIE_0_LevelDesign1Test.LevelDesign1Test (0.017964s)
+[2021.03.25-07.27.53:648][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.03.25-07.27.53:672][892]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2021.03.25-07.27.53:685][892]LogInit: FAudioDevice initialized.
+[2021.03.25-07.27.53:691][892]LogLoad: Game class is 'ALittleLightGameMode_C'
+[2021.03.25-07.27.53:693][892]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelDesign1Test.LevelDesign1Test up for play (max tick rate 0) at 2021.03.25-14.27.53
+[2021.03.25-07.27.53:693][892]LogWorld: Bringing up level for play took: 0.001302
+[2021.03.25-07.27.53:693][892]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.03.25-07.27.53:697][892]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelDesign1Test 0.785
+[2021.03.25-07.27.53:697][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test' with GeneratedClass '/Game/Maps/LevelDesign1Test.LevelDesign1Test_C' with ClassGeneratedBy '/Game/Maps/LevelDesign1Test.LevelDesign1Test:PersistentLevel.LevelDesign1Test'
+[2021.03.25-07.28.09:757][945]LogUObjectBase: Warning: Object is not registered
+[2021.03.25-07.28.09:788][945]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.25-07.28.11:153][945]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.364 s
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: 
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: Stack: 
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe35665279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe34e87fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe34e9622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe338b6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe32864dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe3281e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe47d4d644 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe47f3c533 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe47d9922b UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe47d75738 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe47d69a1e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe93bd4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe93bc26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe93bd7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe93bbedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007fff01a95c1d USER32.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007fff01a95612 USER32.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ffe93bd88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ff744fb6980 UE4Editor.exe!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ff744fca91c UE4Editor.exe!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ff744fca9fa UE4Editor.exe!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ff744fdb92c UE4Editor.exe!UnknownFunction []
+[2021.03.25-07.28.11:153][945]LogOutputDevice: Error: [Callstack] 0x00007ff744fde60e UE4Editor.exe!UnknownFunction []
+[2021.03.25-07.28.11:154][945]LogOutputDevice: Error: [Callstack] 0x00007fff027d7c24 KERNEL32.DLL!UnknownFunction []
+[2021.03.25-07.28.11:154][945]LogOutputDevice: Error: [Callstack] 0x00007fff0366d721 ntdll.dll!UnknownFunction []
+[2021.03.25-07.28.11:154][945]LogOutputDevice: Error: 
+[2021.03.25-07.28.11:159][945]LogStats:                SubmitErrorReport -  0.000 s
