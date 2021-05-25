@@ -845,3 +845,105 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.25-16.23.16:835][108]LogContentValidation: Display: Validating Texture2D /Game/Animation/NewModelAnimation/NewModelTexture/MainCharacter2_lambert1_OcclusionRoughnessMetallic.MainCharacter2_lambert1_OcclusionRoughnessMetallic
 [2021.05.25-16.23.16:835][108]LogContentValidation: Display: Validating Texture2D /Game/Animation/NewModelAnimation/NewModelTexture/MainCharacter2_lambert1_Normal.MainCharacter2_lambert1_Normal
 [2021.05.25-16.23.16:835][108]LogContentValidation: Display: Validating Texture2D /Game/Animation/NewModelAnimation/NewModelTexture/MainCharacter2_lambert1_BaseColor.MainCharacter2_lambert1_BaseColor
+[2021.05.25-16.29.34:464][478]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d2a03904-cd03-414c-b19e-ebef169c6506}.
+[2021.05.25-16.29.34:469][478]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.25-16.29.34:553][478]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-16.29.34:553][478]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-16.29.34:553][478]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.25-16.29.34:553][478]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.25-16.29.34:553][478]LogAudioMixer: Display: 4: BackLeft
+[2021.05.25-16.29.34:553][478]LogAudioMixer: Display: 5: BackRight
+[2021.05.25-16.29.34:553][478]LogAudioMixer: Display: 6: SideLeft
+[2021.05.25-16.29.34:553][478]LogAudioMixer: Display: 7: SideRight
+[2021.05.25-16.30.19:575][ 92]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\WorkArea\ExportAnim\PickupObj.fbx)
+[2021.05.25-16.30.19:613][ 92]LogFbx: Loading FBX Scene from C:\WorkArea\ExportAnim\PickupObj.fbx
+[2021.05.25-16.30.19:683][ 92]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.25-16.30.56:542][ 92]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(0) QuickRigCharacter_Reference
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(1) QuickRigCharacter_Hips
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(2) QuickRigCharacter_LeftUpLeg
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftLeg
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftFoot
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftToeBase
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(6) QuickRigCharacter_RightUpLeg
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(7) QuickRigCharacter_RightLeg
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(8) QuickRigCharacter_RightFoot
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(9) QuickRigCharacter_RightToeBase
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(10) QuickRigCharacter_Spine
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine1
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine2
+[2021.05.25-16.30.56:574][ 92]LogFbx: SortedLinks :(13) QuickRigCharacter_LeftShoulder
+[2021.05.25-16.30.56:575][ 92]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2021.05.25-16.30.56:575][ 92]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2021.05.25-16.30.56:575][ 92]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2021.05.25-16.30.56:575][ 92]LogFbx: SortedLinks :(17) QuickRigCharacter_RightShoulder
+[2021.05.25-16.30.56:575][ 92]LogFbx: SortedLinks :(18) QuickRigCharacter_RightArm
+[2021.05.25-16.30.56:575][ 92]LogFbx: SortedLinks :(19) QuickRigCharacter_RightForeArm
+[2021.05.25-16.30.56:575][ 92]LogFbx: SortedLinks :(20) QuickRigCharacter_RightHand
+[2021.05.25-16.30.56:575][ 92]LogFbx: SortedLinks :(21) QuickRigCharacter_Neck
+[2021.05.25-16.30.56:575][ 92]LogFbx: SortedLinks :(22) QuickRigCharacter_Head
+[2021.05.25-16.30.56:579][ 92]LogFbx: Parsing AnimStack PickupObj
+[2021.05.25-16.30.56:719][ 92]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/NewModelAnimation/PickupObj.PickupObj
+[2021.05.25-16.30.56:719][ 92]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/NewModelAnimation/PickupObj.PickupObj
+[2021.05.25-16.30.57:780][183]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/NewModelAnimation/PickupObj.PickupObj
+[2021.05.25-16.30.57:798][183]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.05.25-16.30.57:958][183]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.25-16.30.57:961][183]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.05.25-16.30.58:497][183]LogRenderer: Reallocating scene render targets to support 944x420 Format 10 NumSamples 1 (Frame:1).
+[2021.05.25-16.30.58:497][183]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.25-16.31.05:163][674]LogSlate: Window 'PickupObj' being destroyed
+[2021.05.25-16.31.05:173][674]LogSlate: Window 'PickupObj' being destroyed
+[2021.05.25-16.31.05:173][674]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-16.31.05:174][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-16.31.05:195][674]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-16.31.05:195][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-16.31.05:271][674]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-16.31.05:272][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-16.31.09:432][815]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\WorkArea\ExportAnim\PutdownObj.fbx)
+[2021.05.25-16.31.09:440][815]LogFbx: Loading FBX Scene from C:\WorkArea\ExportAnim\PutdownObj.fbx
+[2021.05.25-16.31.09:503][815]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.25-16.31.11:733][815]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(0) QuickRigCharacter_Reference
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(1) QuickRigCharacter_Hips
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(2) QuickRigCharacter_LeftUpLeg
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(3) QuickRigCharacter_LeftLeg
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(4) QuickRigCharacter_LeftFoot
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(5) QuickRigCharacter_LeftToeBase
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(6) QuickRigCharacter_RightUpLeg
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(7) QuickRigCharacter_RightLeg
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(8) QuickRigCharacter_RightFoot
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(9) QuickRigCharacter_RightToeBase
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(10) QuickRigCharacter_Spine
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(11) QuickRigCharacter_Spine1
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(12) QuickRigCharacter_Spine2
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(13) QuickRigCharacter_LeftShoulder
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(14) QuickRigCharacter_LeftArm
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(15) QuickRigCharacter_LeftForeArm
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(16) QuickRigCharacter_LeftHand
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(17) QuickRigCharacter_RightShoulder
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(18) QuickRigCharacter_RightArm
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(19) QuickRigCharacter_RightForeArm
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(20) QuickRigCharacter_RightHand
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(21) QuickRigCharacter_Neck
+[2021.05.25-16.31.11:756][815]LogFbx: SortedLinks :(22) QuickRigCharacter_Head
+[2021.05.25-16.31.11:759][815]LogFbx: Parsing AnimStack PutdownObj
+[2021.05.25-16.31.11:885][815]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/NewModelAnimation/PutdownObj.PutdownObj
+[2021.05.25-16.31.11:885][815]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/NewModelAnimation/PutdownObj.PutdownObj
+[2021.05.25-16.31.12:926][898]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/NewModelAnimation/PutdownObj.PutdownObj
+[2021.05.25-16.31.12:930][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.25-16.31.13:293][898]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.25-16.31.17:258][188]LogSlate: Window 'PutdownObj' being destroyed
+[2021.05.25-16.31.17:266][188]LogSlate: Window 'PutdownObj' being destroyed
+[2021.05.25-16.31.17:267][188]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-16.31.17:267][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-16.31.17:278][188]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-16.31.17:278][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-16.31.17:343][188]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-16.31.17:344][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-16.31.18:639][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.25-16.31.20:205][288]LogSlate: Window 'Save Content' being destroyed
+[2021.05.25-16.31.20:241][288]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/ALittleLight-Project/Little Light 3D 4.26/Saved/PickupObj819A106E45092F8081C38C84C08489A4.tmp' to '../../../../../../Users/User/Documents/GitHub/ALittleLight-Project/Little Light 3D 4.26/Content/Animation/NewModelAnimation/PickupObj.uasset'
+[2021.05.25-16.31.20:261][288]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/ALittleLight-Project/Little Light 3D 4.26/Saved/PutdownObjD49D4DA94F1F4621961E7E8E211EC89A.tmp' to '../../../../../../Users/User/Documents/GitHub/ALittleLight-Project/Little Light 3D 4.26/Content/Animation/NewModelAnimation/PutdownObj.uasset'
+[2021.05.25-16.31.20:285][288]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.25-16.31.20:285][288]LogContentValidation: Display: Validating AnimSequence /Game/Animation/NewModelAnimation/PutdownObj.PutdownObj
+[2021.05.25-16.31.20:285][288]LogContentValidation: Display: Validating AnimSequence /Game/Animation/NewModelAnimation/PickupObj.PickupObj
