@@ -1,0 +1,1681 @@
+﻿Log file open, 07/28/21 16:10:31
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Little_Light_3D
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 10.176440
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/ObserveR/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic game/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Engine.ini]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Engine.ini]
+[2021.07.28-09.10.38:451][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Engine.ini]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.28-09.10.38:451][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Engine.ini]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.28-09.10.38:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Engine.ini]
+[2021.07.28-09.10.38:452][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Engine.ini]
+[2021.07.28-09.10.38:562][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.28-09.10.38:562][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.28-09.10.38:563][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.28-09.10.38:573][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.28-09.10.38:584][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.28-09.10.38:591][  0]LogHAL: Display: Platform has ~ 32 GB [34286391296 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.28-09.10.38:591][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.28-09.10.38:595][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.28-09.10.38:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.28-09.10.38:596][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.28-09.10.38:635][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.28-09.10.38:635][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.28-09.10.38:635][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.28-09.10.38:635][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Engine.ini]
+[2021.07.28-09.10.38:635][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Config/Windows/Editor.ini]
+[2021.07.28-09.10.38:636][  0]LogInit: Computer: OBSERVER
+[2021.07.28-09.10.38:636][  0]LogInit: User: ObserveR
+[2021.07.28-09.10.38:636][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.07.28-09.10.38:636][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.28-09.10.38:636][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.07.28-09.10.38:636][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.28-09.10.38:636][  0]LogMemory: Process Physical Memory: 144.96 MB used, 144.96 MB peak
+[2021.07.28-09.10.38:636][  0]LogMemory: Process Virtual Memory: 121.45 MB used, 121.45 MB peak
+[2021.07.28-09.10.38:636][  0]LogMemory: Physical Memory: 10963.78 MB used,  21734.27 MB free, 32698.05 MB total
+[2021.07.28-09.10.38:636][  0]LogMemory: Virtual Memory: 134194944.00 MB used,  22782.02 MB free, 134217728.00 MB total
+[2021.07.28-09.10.38:662][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.28-09.10.39:952][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.28-09.10.40:001][  0]LogInit: Using OS detected language (en-US).
+[2021.07.28-09.10.40:001][  0]LogInit: Using OS detected locale (th-TH).
+[2021.07.28-09.10.40:197][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.07.28-09.10.40:824][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.28-09.10.41:279][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.28-09.10.41:887][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.28-09.10.41:887][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.28-09.10.45:148][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.28-09.10.45:148][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.28-09.10.45:148][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.28-09.10.45:148][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.28-09.10.45:226][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.07.28-09.10.45:226][  0]LogD3D11RHI:       6052/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.07.28-09.10.45:234][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.28-09.10.45:234][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.28-09.10.45:234][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.28-09.10.45:264][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.28-09.10.45:264][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.28-09.10.45:264][  0]LogWindows: EnumDisplayDevices:
+[2021.07.28-09.10.45:264][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.07.28-09.10.45:265][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.07.28-09.10.45:265][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.07.28-09.10.45:265][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.07.28-09.10.45:265][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.28-09.10.45:265][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.07.28-09.10.45:265][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.07.28-09.10.45:265][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.07.28-09.10.45:265][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.07.28-09.10.45:307][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.28-09.10.45:308][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.28-09.10.45:308][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.28-09.10.45:751][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.28-09.10.45:761][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.28-09.10.46:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.28-09.10.47:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.28-09.10.47:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.28-09.10.47:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.28-09.10.47:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.28-09.10.47:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.28-09.10.47:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.28-09.10.47:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.28-09.10.47:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.28-09.10.47:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.28-09.10.47:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.28-09.10.47:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.28-09.10.47:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.28-09.10.47:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.28-09.10.47:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.28-09.10.47:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.28-09.10.47:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.28-09.10.47:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.28-09.10.47:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.28-09.10.47:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.28-09.10.47:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.28-09.10.47:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.28-09.10.47:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.28-09.10.47:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.28-09.10.47:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.28-09.10.47:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.28-09.10.47:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.28-09.10.47:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.28-09.10.47:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.28-09.10.47:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.28-09.10.47:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.28-09.10.48:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.28-09.10.48:013][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.28-09.10.48:305][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.28-09.10.49:681][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.28-09.10.49:715][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Intermediate/Shaders/WorkingDirectory/10596/).
+[2021.07.28-09.10.49:715][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ObserveR/AppData/Local/Temp/UnrealShaderWorkingDir/19D9B82145C84264EABBFBB14271463F/'.
+[2021.07.28-09.10.49:729][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.28-09.10.49:729][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.28-09.10.54:293][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.28-09.10.54:508][  0]LogDerivedDataCache: Loaded boot cache 0.21s 77MB C:/Users/ObserveR/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.28-09.10.54:508][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ObserveR/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.28-09.10.54:527][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.28-09.10.54:527][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.28-09.10.54:527][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.28-09.10.54:527][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.28-09.10.54:654][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.28-09.10.54:654][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.28-09.10.54:654][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.28-09.10.54:714][  0]LogDerivedDataCache: Speed tests for C:/Users/ObserveR/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2021.07.28-09.10.54:714][  0]LogDerivedDataCache: Display: Performance to C:/Users/ObserveR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.49ms. RandomReadSpeed=19.40MBs, RandomWriteSpeed=172.91MBs. Assigned SpeedClass 'Local'
+[2021.07.28-09.10.54:715][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ObserveR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.28-09.10.54:715][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.28-09.10.54:715][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.28-09.10.54:938][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.28-09.10.55:052][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.28-09.10.56:017][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2021.07.28-09.11.07:111][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.28-09.11.07:111][  0]LogInit: Active device profile: [00000278C3FE9B00][00000278B223A540 49] Windows
+[2021.07.28-09.11.07:111][  0]LogInit: Profiles: [00000278C3FE9B00][00000278B223A540 49] Windows, [00000278C3FB2A00][00000278B22426C0 49] WindowsNoEditor, [00000278C3FE9D00][00000278B2246840 49] WindowsServer, [00000278C3FB0C00][00000278B224A9C0 49] WindowsClient, [00000278C3FE8E00][00000278B224EB40 49] IOS, [00000278C3FB3B00][00000278B2252CC0 49] iPadAir, [00000278C3FEB000][00000278B9756E40 49] iPadAir2, [00000278C3F5AB00][00000278B975F100 49] IPadPro, [00000278C3F5AC00][00000278B975B140 49] iPadAir3, [00000278C3FE9200][00000278B97632C0 49] iPadAir4, [00000278C3F5A800][00000278B9767440 49] iPadMini2, [00000278C3FEB100][00000278B976B5C0 49] iPadMini3, [00000278C3F59800][00000278B223F700 49] iPadMini4, [00000278C3FEAA00][00000278B976F840 49] iPadMini5, [00000278C3F9A400][00000278C25CFA80 49] iPhone6, [00000278C3F9A500][00000278B9773AC0 49] iPodTouch6, [00000278C3FB0200][00000278C25DA0C0 49] iPhone7, [00000278C3FB0500][00000278C25D6100 49] iPodTouch7, [00000278C3F9BC00][00000278C25DE280 49] iPhone5S, [00000278C3FB2300][00000278C25E2400 49] iPhone6Plus, [00000278C3F99600][00000278C25E6580 49] iPhone6S, [00000278C3FB1E00][00000278C25EA700 49] iPhone6SPlus, [00000278C3F98700][00000278C25EE880 49] iPhone7Plus, [00000278C3FB1100][00000278C25F2A00 49] iPhoneSE, [00000278C3F9B400][00000278C25F6B80 49] iPhone8, [00000278C3FB2200][00000278C25FAD00 49] iPhone8Plus, [00000278C3F98200][00000278C25FEE80 49] iPhoneX, [00000278C3FB3000][00000278C2603000 49] iPhoneXS, [00000278C3F9AF00][00000278C2607180 49] iPhoneXSMax, [00000278C3FB2B00][00000278C260B300 49] iPhoneXR, [00000278C3F98D00][00000278C260F480 49] iPhone11, [00000278C3FB2D00][00000278C2613600 49] iPhone11Pro, [00000278C3F9B200][00000278C25D3740 49] iPhone11ProMax, [00000278C3FB3E00][00000278C2617880 49] iPhoneSE2, [00000278C3F9AD00][00000278C261B9C0 49] iPhone12Mini, [00000278C3FB0100][00000278C1F13B00 49] iPhone12, [00000278C3FB0A00][00000278C1F1BC80 49] iPhone12Pro, [00000278C3FEB500][00000278C1F1E140 49] iPhone12ProMax, [00000278C3FEA400][00000278C1F222C0 49] iPadPro105, [00000278C3F99200][00000278C1F26440 49] iPadPro129, [00000278C3FEA000][00000278C1F2A5C0 49] iPadPro97, [00000278C3F9A100][00000278C1F2E740 49] iPadPro2_129, [00000278C3FE8D00][00000278C1F328C0 49] iPad5, [00000278C3F9B500][00000278C1F36A40 49] iPad6, [00000278C3FEBF00][00000278C1F3ABC0 49] iPad7, [00000278C3F9B800][00000278C1F3ED40 49] iPad8, [00000278C3FB3300][00000278C1F42EC0 49] iPadPro11, [00000278C3F98400][00000278C1F47040 49] iPadPro2_11, [00000278C3FB0F00][00000278C1F4B1C0 49] iPadPro3_129, [00000278C3F99B00][00000278C1F4F340 49] iPadPro4_129, [00000278C3FB1D00][00000278C1F534C0 49] AppleTV, [00000278C3F98600][00000278A2DCF640 49] AppleTV4K, [00000278C3FB2800][00000278A2DD37C0 49] TVOS, [00000278C3F98900][00000278C1F17900 49] Mac, [00000278C3FB0D00][00000278A2DD7A40 49] MacClient, [00000278C3F98100][00000278A2DDBB80 49] MacNoEditor, [00000278C3FB1B00][00000278A2DE3D00 49] MacServer, [00000278C3F9B700][00000278A2DE61C0 49] Linux, [00000278C3FB3700][00000278A2DEA340 49] LinuxAArch64, [00000278C3F9B100][00000278A2DEE4C0 49] LinuxNoEditor, [00000278C3FB2500][00000278A2DF2640 49] LinuxAArch64NoEditor, [00000278C3F99900][00000278A2DF67C0 49] LinuxClient, [00000278C3FB0600][00000278A2DFA940 49] LinuxAArch64Client, [00000278C3F9A200][00000278A2DFEAC0 49] LinuxServer, [00000278C3FB1500][00000278A2E02C40 49] LinuxAArch64Server, [00000278C3F9BD00][00000278A2E06DC0 49] Android, [00000278C3FB0300][00000278A2E0AF40 49] Android_Low, [00000278C3F98C00][00000278A2E0F0C0 49] Android_Mid, [00000278C3FB0900][00000278A2E13240 49] Android_High, [00000278C3F9AB00][00000278A2E173C0 49] Android_Default, [00000278C3FB2100][00000278A2E1B540 49] Android_Adreno4xx, [00000278C3F98800][00000278C1F576C0 49] Android_Adreno5xx_Low, [00000278C3FB0E00][00000278C1F5B840 49] Android_Adreno5xx, [00000278C3F98E00][00000278A2DDF980 49] Android_Adreno6xx, [00000278C3FB1700][00000278C1F5FAC0 49] Android_Adreno6xx_Vulkan, [00000278C3F9BA00][00000278C1F63C00 49] Android_Mali_T6xx, [00000278C3FB2400][00000278C1F6A0C0 49] Android_Mali_T7xx, [00000278C3F99C00][00000278C1F6E240 49] Android_Mali_T8xx, [00000278C3FB0700][00000278C1F723C0 49] Android_Mali_G71, [00000278C3F98B00][00000278C1F76540 49] Android_Mali_G72, [00000278C3FB1200][00000278C1F7A6C0 49] Android_Mali_G72_Vulkan, [00000278C3F99000][00000278C1F7E840 49] Android_Mali_G76, [00000278C3FB1900][00000278C1F829C0 49] Android_Mali_G76_Vulkan, [00000278C3F98300][00000278C1F86B40 49] Android_Mali_G77, [00000278C3FB3900][00000278C1F8ACC0 49] Android_Mali_G77_Vulkan, [00000278C3F99300][00000278C1F8EE40 49] Android_Vulkan_SM5, [00000278C3FE8B00][00000278C1F92FC0 49] Android_PowerVR_G6xxx, [00000278C3F58800][00000278C1F97140 49] Android_PowerVR_GT7xxx, [00000278C3FEAE00][00000278C1F9B2C0 49] Android_PowerVR_GE8xxx, [00000278C3F5A900][00000278C1F9F440 49] Android_PowerVR_GM9xxx, [00000278C3FEA200][00000278C1FA35C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000278C3F58D00][00000278C1FA7740 49] Android_TegraK1, [00000278C3FEB300][00000278C1FAB8C0 49] Android_Unknown_Vulkan, [00000278C3F59400][00000278C1F67A00 49] Lumin, [00000278C3FEAC00][00000278C1FAFB40 49] Lumin_Desktop, [00000278C3F59B00][00000278C1FB3C80 49] HoloLens, 
+[2021.07.28-09.11.14:714][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.28-09.11.14:714][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.28-09.11.14:714][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.28-09.11.14:714][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.28-09.11.14:725][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.28-09.11.15:512][  0]LogNetVersion: Little_Light_3D 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 879176062)
+[2021.07.28-09.11.24:650][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.28-09.11.24:982][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.268665 seconds
+[2021.07.28-09.11.25:014][  0]LogUObjectArray: 16827 objects as part of root set at end of initial load.
+[2021.07.28-09.11.25:014][  0]LogUObjectAllocator: 4208352 out of 0 bytes used by permanent object pool.
+[2021.07.28-09.11.25:014][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.28-09.11.27:752][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.28-09.11.27:799][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.28-09.11.33:331][  0]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/2DSideScrollerOverview': Can't find file.
+[2021.07.28-09.11.33:331][  0]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/2DSideScrollerOverview': Can't find file.
+[2021.07.28-09.11.33:331][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2021.07.28-09.11.33:360][  0]LogLinker: Warning: Failed to load '/Engine/Tutorial/Paper2D/SpriteEditorTutorial': Can't find file.
+[2021.07.28-09.11.33:360][  0]LogLinker: Warning: Failed to load '/Engine/Tutorial/Paper2D/SpriteEditorTutorial': Can't find file.
+[2021.07.28-09.11.33:360][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Engine/Tutorial/Paper2D/SpriteEditorTutorial.SpriteEditorTutorial_C'
+[2021.07.28-09.11.34:325][  0]SourceControl: Source control is disabled
+[2021.07.28-09.11.34:325][  0]SourceControl: Source control is disabled
+[2021.07.28-09.11.34:386][  0]SourceControl: Source control is disabled
+[2021.07.28-09.11.34:436][  0]SourceControl: Source control is disabled
+[2021.07.28-09.11.34:565][  0]LogUProjectInfo: Found projects:
+[2021.07.28-09.11.34:781][  0]SourceControl: Source control is disabled
+[2021.07.28-09.11.37:565][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.28-09.11.37:715][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.28-09.11.37:715][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.28-09.11.38:394][  0]LogCollectionManager: Loaded 0 collections in 0.020053 seconds
+[2021.07.28-09.11.38:817][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Collections/' took 0.02s
+[2021.07.28-09.11.38:817][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Developers/ObserveR/Collections/' took 0.00s
+[2021.07.28-09.11.38:817][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Collections/' took 0.00s
+[2021.07.28-09.11.38:817][  0]LogOcInput: OculusInput pre-init called
+[2021.07.28-09.11.38:943][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.28-09.11.38:943][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.28-09.11.40:244][  0]LogEngine: Initializing Engine...
+[2021.07.28-09.11.40:329][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.28-09.11.40:343][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.28-09.11.40:363][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.07.28-09.11.41:249][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.28-09.11.41:873][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.28-09.11.41:916][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.28-09.11.41:991][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.28-09.11.41:991][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.28-09.11.42:122][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.28-09.11.42:122][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.28-09.11.42:122][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.28-09.11.42:122][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.28-09.11.42:122][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.28-09.11.42:122][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.28-09.11.42:122][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.28-09.11.42:122][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.28-09.11.42:155][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.28-09.11.42:155][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.28-09.11.42:310][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.28-09.11.42:310][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.28-09.11.42:310][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.28-09.11.42:310][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.28-09.11.42:310][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.07.28-09.11.42:310][  0]LogAudioMixer: Display: 5: BackRight
+[2021.07.28-09.11.42:349][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.07.28-09.11.42:410][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.28-09.11.42:473][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.28-09.11.42:473][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.28-09.11.42:482][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.28-09.11.42:501][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.28-09.11.42:501][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.07.28-09.11.42:502][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.28-09.11.42:502][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.28-09.11.42:502][  0]LogInit: FAudioDevice initialized.
+[2021.07.28-09.11.42:503][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.28-09.11.42:532][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.28-09.11.42:632][  0]LogDerivedDataCache: Saved boot cache 0.10s 77MB C:/Users/ObserveR/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.28-09.11.42:632][  0]LogInit: Texture streaming: Enabled
+[2021.07.28-09.11.42:877][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.28-09.11.42:926][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.28-09.11.42:926][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.28-09.11.42:969][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.28-09.11.43:295][  0]LogInit: Transaction tracking system initialized
+[2021.07.28-09.11.43:659][  0]BlueprintLog: New page: Editor Load
+[2021.07.28-09.11.45:250][  0]LocalizationService: Localization service is disabled
+[2021.07.28-09.11.45:774][  0]TimingProfiler: Initialize
+[2021.07.28-09.11.45:776][  0]TimingProfiler: OnSessionChanged
+[2021.07.28-09.11.45:776][  0]LoadingProfiler: Initialize
+[2021.07.28-09.11.45:777][  0]LoadingProfiler: OnSessionChanged
+[2021.07.28-09.11.45:777][  0]NetworkingProfiler: Initialize
+[2021.07.28-09.11.45:777][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.28-09.11.45:777][  0]MemoryProfiler: Initialize
+[2021.07.28-09.11.45:777][  0]MemoryProfiler: OnSessionChanged
+[2021.07.28-09.11.45:814][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.07.28-09.11.45:814][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.07.28-09.11.50:332][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/' took 0.03s
+[2021.07.28-09.11.50:332][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.28-09.11.50:332][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.28-09.12.00:399][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.28-09.12.00:552][  0]SourceControl: Source control is disabled
+[2021.07.28-09.12.00:593][  0]LogUnrealEdMisc: Loading editor; pre map load, took 117.940
+[2021.07.28-09.12.00:645][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.28-09.12.00:646][  0]LogEditorServer: Warning: Can't find file '../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.07.28-09.12.00:661][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.28-09.12.00:661][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2021.07.28-09.12.00:661][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.019
+[2021.07.28-09.12.01:607][  0]LogUnrealEdMisc: Total Editor Startup Time, took 118.954
+[2021.07.28-09.12.02:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.28-09.12.02:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.28-09.12.02:323][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.28-09.12.02:329][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.28-09.12.02:514][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3601 classes and 859 folders.
+[2021.07.28-09.12.02:638][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.28-09.12.02:761][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.28-09.12.02:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.28-09.12.02:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.07.28-09.12.02:783][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.28-09.12.02:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.28-09.12.02:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.07.28-09.12.02:859][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.28-09.12.02:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.28-09.12.02:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.07.28-09.12.02:864][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.28-09.12.02:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.28-09.12.02:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.07.28-09.12.02:902][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.28-09.12.02:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.28-09.12.02:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.07.28-09.12.02:907][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.28-09.12.02:907][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:907][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.28-09.12.02:907][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.07.28-09.12.02:925][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.28-09.12.02:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.28-09.12.02:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.07.28-09.12.02:935][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.28-09.12.02:935][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.28-09.12.02:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.07.28-09.12.02:950][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.28-09.12.02:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:950][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.28-09.12.02:950][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.07.28-09.12.02:962][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.28-09.12.02:962][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:962][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.28-09.12.02:962][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.07.28-09.12.02:968][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.28-09.12.02:968][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.28-09.12.02:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.07.28-09.12.02:974][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.28-09.12.02:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.28-09.12.02:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.07.28-09.12.02:987][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.28-09.12.02:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.02:988][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.28-09.12.02:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.07.28-09.12.03:002][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.28-09.12.03:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.28-09.12.03:002][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.07.28-09.12.03:013][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.28-09.12.03:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.28-09.12.03:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.07.28-09.12.03:019][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.28-09.12.03:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.28-09.12.03:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.07.28-09.12.03:024][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.28-09.12.03:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.28-09.12.03:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.07.28-09.12.03:043][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.28-09.12.03:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.28-09.12.03:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.07.28-09.12.03:113][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.28-09.12.03:113][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:113][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.28-09.12.03:113][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.07.28-09.12.03:132][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.28-09.12.03:132][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:132][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.28-09.12.03:132][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.07.28-09.12.03:138][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.28-09.12.03:138][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:138][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.28-09.12.03:138][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.07.28-09.12.03:144][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.28-09.12.03:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:144][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.28-09.12.03:144][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.07.28-09.12.03:175][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.28-09.12.03:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.28-09.12.03:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.07.28-09.12.03:193][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.28-09.12.03:193][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:193][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.28-09.12.03:193][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.07.28-09.12.03:204][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.28-09.12.03:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.28-09.12.03:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.07.28-09.12.03:212][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.28-09.12.03:212][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.28-09.12.03:212][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.28-09.12.03:212][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.07.28-09.12.04:048][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.28-09.12.04:091][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.07.28-09.12.04:895][  0]LogSlate: Took 0.039351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.28-09.12.04:920][  0]LogSlate: Took 0.023674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.28-09.12.04:994][  0]LogSlate: Took 0.024128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.28-09.12.05:576][  0]LogRenderer: Reallocating scene render targets to support 1164x560 Format 10 NumSamples 1 (Frame:1).
+[2021.07.28-09.12.06:190][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.28-09.12.06:190][  0]LogInput: Warning: Action Jump uses invalid key MotionController_Left_Trigger.
+[2021.07.28-09.12.06:190][  0]LogInput: Warning: Action ResetVR uses invalid key MotionController_Left_Grip1.
+[2021.07.28-09.12.06:190][  0]LogInput: Warning: Action Jump uses invalid key MotionController_Right_Trigger.
+[2021.07.28-09.12.06:190][  0]LogInput: Warning: Action Jump uses invalid key OculusTouchpad_Touchpad.
+[2021.07.28-09.12.06:190][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.07.28-09.12.06:190][  0]LogLoad: (Engine Initialization) Total time: 123.54 seconds
+[2021.07.28-09.12.06:190][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.28-09.12.06:201][  0]LogInit: First time updating LLM stats...
+[2021.07.28-09.12.07:057][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.28-09.12.07:161][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/' took 0.77s
+[2021.07.28-09.12.07:169][  1]LogAssetRegistry: Asset discovery search completed in 71.1525 seconds
+[2021.07.28-09.12.07:205][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.07.28-09.12.07:637][  2]LogSlate: Took 0.023752 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.28-09.16.00:584][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.07.28-09.16.00:637][978]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.28-09.16.09:109][978]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LevelTest6.LevelTest6
+[2021.07.28-09.16.09:121][978]Cmd: MAP LOAD FILE="../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Maps/LevelTest6.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.28-09.16.09:121][978]LightingResults: New page: Lighting Build
+[2021.07.28-09.16.09:158][978]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.07.28-09.16.09:158][978]LoadErrors: New page: Loading map: LevelTest6.umap
+[2021.07.28-09.16.09:186][978]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.28-09.16.09:224][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-09.16.09:249][978]MapCheck: New page: Map Check
+[2021.07.28-09.16.09:249][978]LightingResults: New page: Lighting Build
+[2021.07.28-09.16.09:391][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.07.28-09.16.09:392][978]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTest6'.
+[2021.07.28-09.16.09:872][978]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.28-09.16.09:872][978]LogAIModule: Creating AISystem for world LevelTest6
+[2021.07.28-09.16.09:940][978]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=132.994, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2021.07.28-09.16.09:951][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.07.28-09.16.10:004][978]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.28-09.16.10:004][978]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2021.07.28-09.16.10:004][978]LogFileHelpers: Loading map 'LevelTest6' took 0.883
+[2021.07.28-09.16.36:672][998]LogContentBrowser: Deferred new asset file creation: LevelTest7
+[2021.07.28-09.16.36:684][998]LogContentBrowser: Creating deferred item: LevelTest7
+[2021.07.28-09.16.38:347][195]LogContentBrowser: Attempting asset rename: LevelTest7 -> LevelTest7
+[2021.07.28-09.16.38:408][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.07.28-09.16.38:471][195]LogContentBrowser: End creating deferred item LevelTest7
+[2021.07.28-09.16.39:462][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.07.28-09.16.43:404][310]LogSlate: Window 'Save Content' being destroyed
+[2021.07.28-09.16.43:506][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-09.16.43:790][310]LogSavePackage: Moving '../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/LevelTest68809A8E942CD7D69F7E6C9B143FA2203.tmp' to '../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Maps/LevelTest6.umap'
+[2021.07.28-09.16.43:826][310]LogFileHelpers: Saving map 'LevelTest6' took 0.336
+[2021.07.28-09.16.43:855][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.07.28-09.16.43:991][310]LogSavePackage: Moving '../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/LevelTest743526DF4486FA046E26017B92BD6914A.tmp' to '../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Maps/LevelTest7.umap'
+[2021.07.28-09.16.44:003][310]LogFileHelpers: Saving map 'LevelTest7' took 0.177
+[2021.07.28-09.16.44:041][310]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LevelTest7.LevelTest7
+[2021.07.28-09.16.44:041][310]Cmd: MAP LOAD FILE="../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Maps/LevelTest7.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.28-09.16.44:041][310]LightingResults: New page: Lighting Build
+[2021.07.28-09.16.44:041][310]LoadErrors: New page: Loading map: LevelTest7.umap
+[2021.07.28-09.16.44:067][310]LogWorld: UWorld::CleanupWorld for LevelTest6, bSessionEnded=true, bCleanupResources=true
+[2021.07.28-09.16.44:068][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.28-09.16.44:068][310]MapCheck: New page: Map Check
+[2021.07.28-09.16.44:068][310]LightingResults: New page: Lighting Build
+[2021.07.28-09.16.44:105][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.28-09.16.44:140][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.07.28-09.16.44:418][310]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTest7'.
+[2021.07.28-09.16.44:524][310]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.28-09.16.44:524][310]LogAIModule: Creating AISystem for world LevelTest7
+[2021.07.28-09.16.44:524][310]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=265.989, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2021.07.28-09.16.44:542][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.07.28-09.16.44:558][310]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.28-09.16.44:559][310]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2021.07.28-09.16.44:559][310]LogFileHelpers: Loading map 'LevelTest7' took 0.518
+[2021.07.28-09.16.44:600][310]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.28-09.16.44:600][310]LogContentValidation: Display: Validating World /Game/Maps/LevelTest7.LevelTest7
+[2021.07.28-09.16.44:600][310]LogContentValidation: Display: Validating World /Game/Maps/LevelTest6.LevelTest6
+[2021.07.28-09.20.19:268][205]LogSlate: Took 0.040318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.28-09.21.40:439][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock8)
+[2021.07.28-09.21.41:843][695]Cmd: DELETE
+[2021.07.28-09.21.41:843][695]Cmd: ACTOR DELETE
+[2021.07.28-09.21.41:953][695]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.21.42:006][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.07.28-09.21.42:008][695]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2021.07.28-09.21.42:379][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush9)
+[2021.07.28-09.21.42:533][753]Cmd: DELETE
+[2021.07.28-09.21.42:533][753]Cmd: ACTOR DELETE
+[2021.07.28-09.21.42:541][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.21.42:545][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.07.28-09.21.42:546][753]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-09.21.43:306][837]Cmd: DELETE
+[2021.07.28-09.21.43:306][837]Cmd: ACTOR DELETE
+[2021.07.28-09.21.43:317][837]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.21.43:322][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.28-09.21.43:543][837]LogEditorActor: Deleted 1 Actors (0.237 secs)
+[2021.07.28-09.21.50:083][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree11)
+[2021.07.28-09.21.52:188][840]Cmd: DELETE
+[2021.07.28-09.21.52:188][840]Cmd: ACTOR DELETE
+[2021.07.28-09.21.52:196][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.21.52:201][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.07.28-09.21.52:204][840]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-09.21.54:010][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock9)
+[2021.07.28-09.21.54:624][106]Cmd: DELETE
+[2021.07.28-09.21.54:624][106]Cmd: ACTOR DELETE
+[2021.07.28-09.21.54:633][106]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.21.54:639][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.07.28-09.21.54:640][106]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.28-09.21.55:683][224]Cmd: DELETE
+[2021.07.28-09.21.55:683][224]Cmd: ACTOR DELETE
+[2021.07.28-09.21.55:693][224]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.21.55:698][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.28-09.21.55:784][224]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2021.07.28-09.21.56:248][271]Cmd: DELETE
+[2021.07.28-09.21.56:248][271]Cmd: ACTOR DELETE
+[2021.07.28-09.21.56:258][271]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.21.56:264][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.28-09.21.56:319][271]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2021.07.28-09.21.56:741][312]Cmd: DELETE
+[2021.07.28-09.21.56:741][312]Cmd: ACTOR DELETE
+[2021.07.28-09.21.56:752][312]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.21.56:757][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.07.28-09.21.56:830][312]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2021.07.28-09.21.57:166][343]Cmd: DELETE
+[2021.07.28-09.21.57:166][343]Cmd: ACTOR DELETE
+[2021.07.28-09.21.57:176][343]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.21.57:182][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.07.28-09.21.57:238][343]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2021.07.28-09.21.58:119][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2021.07.28-09.21.58:256][456]Cmd: DELETE
+[2021.07.28-09.21.58:256][456]Cmd: ACTOR DELETE
+[2021.07.28-09.21.58:264][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.21.58:269][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.28-09.21.58:270][456]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-09.21.58:811][515]Cmd: DELETE
+[2021.07.28-09.21.58:811][515]Cmd: ACTOR DELETE
+[2021.07.28-09.21.58:821][515]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.21.58:826][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.28-09.21.58:882][515]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2021.07.28-09.22.00:032][643]Cmd: DELETE
+[2021.07.28-09.22.00:032][643]Cmd: ACTOR DELETE
+[2021.07.28-09.22.00:046][643]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.22.00:053][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.28-09.22.00:116][643]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2021.07.28-09.22.00:494][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2021.07.28-09.22.00:634][696]Cmd: DELETE
+[2021.07.28-09.22.00:634][696]Cmd: ACTOR DELETE
+[2021.07.28-09.22.00:642][696]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.00:648][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.07.28-09.22.00:649][696]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-09.22.01:182][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.07.28-09.22.01:304][770]Cmd: DELETE
+[2021.07.28-09.22.01:304][770]Cmd: ACTOR DELETE
+[2021.07.28-09.22.01:312][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.01:318][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-09.22.01:319][770]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-09.22.01:815][824]Cmd: DELETE
+[2021.07.28-09.22.01:815][824]Cmd: ACTOR DELETE
+[2021.07.28-09.22.01:826][824]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.22.01:831][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.28-09.22.01:888][824]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2021.07.28-09.22.02:641][906]Cmd: DELETE
+[2021.07.28-09.22.02:641][906]Cmd: ACTOR DELETE
+[2021.07.28-09.22.02:651][906]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.22.02:657][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.28-09.22.02:712][906]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2021.07.28-09.22.06:247][310]LogEditorViewport: Clicking on Actor (LMB): Koopa_BP_C (Koopa_BP)
+[2021.07.28-09.22.07:723][439]Cmd: DELETE
+[2021.07.28-09.22.07:723][439]Cmd: ACTOR DELETE
+[2021.07.28-09.22.07:730][439]LogEditorActor: Deleted Actor: Koopa_BP_C
+[2021.07.28-09.22.07:737][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.07.28-09.22.07:738][439]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-09.22.08:760][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2021.07.28-09.22.08:878][571]Cmd: DELETE
+[2021.07.28-09.22.08:878][571]Cmd: ACTOR DELETE
+[2021.07.28-09.22.08:885][571]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.08:892][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-09.22.08:893][571]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-09.22.09:304][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2021.07.28-09.22.09:368][624]Cmd: DELETE
+[2021.07.28-09.22.09:368][624]Cmd: ACTOR DELETE
+[2021.07.28-09.22.09:378][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.09:383][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.28-09.22.09:384][624]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.28-09.22.18:649][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock29)
+[2021.07.28-09.22.19:554][754]Cmd: DELETE
+[2021.07.28-09.22.19:554][754]Cmd: ACTOR DELETE
+[2021.07.28-09.22.19:562][754]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.19:569][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.28-09.22.19:571][754]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.07.28-09.22.20:017][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock28)
+[2021.07.28-09.22.20:298][836]Cmd: DELETE
+[2021.07.28-09.22.20:298][836]Cmd: ACTOR DELETE
+[2021.07.28-09.22.20:306][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.20:311][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-09.22.20:312][836]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-09.22.20:680][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock31)
+[2021.07.28-09.22.20:739][882]Cmd: DELETE
+[2021.07.28-09.22.20:739][882]Cmd: ACTOR DELETE
+[2021.07.28-09.22.20:747][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.20:754][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-09.22.20:754][882]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.28-09.22.21:234][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.07.28-09.22.21:357][949]Cmd: DELETE
+[2021.07.28-09.22.21:357][949]Cmd: ACTOR DELETE
+[2021.07.28-09.22.21:364][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.21:370][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-09.22.21:371][949]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-09.22.21:730][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.07.28-09.22.21:856][  2]Cmd: DELETE
+[2021.07.28-09.22.21:856][  2]Cmd: ACTOR DELETE
+[2021.07.28-09.22.21:865][  2]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.21:871][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.28-09.22.21:871][  2]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-09.22.22:464][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock30)
+[2021.07.28-09.22.22:678][ 93]Cmd: DELETE
+[2021.07.28-09.22.22:678][ 93]Cmd: ACTOR DELETE
+[2021.07.28-09.22.22:687][ 93]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.22:693][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-09.22.22:693][ 93]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-09.22.23:177][144]Cmd: DELETE
+[2021.07.28-09.22.23:177][144]Cmd: ACTOR DELETE
+[2021.07.28-09.22.23:186][144]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.22.23:191][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-09.22.23:278][144]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2021.07.28-09.22.23:819][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock19)
+[2021.07.28-09.22.23:878][207]Cmd: DELETE
+[2021.07.28-09.22.23:878][207]Cmd: ACTOR DELETE
+[2021.07.28-09.22.23:887][207]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.23:894][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.07.28-09.22.23:895][207]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.28-09.22.24:422][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock22)
+[2021.07.28-09.22.24:582][284]Cmd: DELETE
+[2021.07.28-09.22.24:582][284]Cmd: ACTOR DELETE
+[2021.07.28-09.22.24:591][284]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.24:596][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-09.22.24:597][284]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-09.22.24:976][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock32)
+[2021.07.28-09.22.25:120][341]Cmd: DELETE
+[2021.07.28-09.22.25:120][341]Cmd: ACTOR DELETE
+[2021.07.28-09.22.25:128][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.25:135][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-09.22.25:135][341]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-09.22.25:719][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock5)
+[2021.07.28-09.22.25:994][439]Cmd: DELETE
+[2021.07.28-09.22.25:994][439]Cmd: ACTOR DELETE
+[2021.07.28-09.22.26:002][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.26:008][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-09.22.26:009][439]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-09.22.26:486][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush6)
+[2021.07.28-09.22.26:881][538]Cmd: DELETE
+[2021.07.28-09.22.26:881][538]Cmd: ACTOR DELETE
+[2021.07.28-09.22.26:889][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.26:895][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.28-09.22.26:896][538]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-09.22.27:425][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree6)
+[2021.07.28-09.22.27:753][636]Cmd: DELETE
+[2021.07.28-09.22.27:753][636]Cmd: ACTOR DELETE
+[2021.07.28-09.22.27:761][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.27:767][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-09.22.27:768][636]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-09.22.28:266][690]Cmd: DELETE
+[2021.07.28-09.22.28:266][690]Cmd: ACTOR DELETE
+[2021.07.28-09.22.28:275][690]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.22.28:282][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-09.22.28:325][690]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2021.07.28-09.22.28:819][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock6)
+[2021.07.28-09.22.28:866][747]Cmd: DELETE
+[2021.07.28-09.22.28:866][747]Cmd: ACTOR DELETE
+[2021.07.28-09.22.28:875][747]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.28:882][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.07.28-09.22.28:883][747]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.28-09.22.29:514][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree7)
+[2021.07.28-09.22.29:838][855]Cmd: DELETE
+[2021.07.28-09.22.29:838][855]Cmd: ACTOR DELETE
+[2021.07.28-09.22.29:846][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-09.22.29:852][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-09.22.29:853][855]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-09.22.30:663][951]LogEditorViewport: Clicking on Actor (LMB): Pillar_C (Pillar9)
+[2021.07.28-09.22.31:776][ 80]Cmd: DELETE
+[2021.07.28-09.22.31:776][ 80]Cmd: ACTOR DELETE
+[2021.07.28-09.22.31:784][ 80]LogEditorActor: Deleted Actor: Pillar_C
+[2021.07.28-09.22.31:789][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.07.28-09.22.31:790][ 80]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-09.22.32:942][217]LogEditorViewport: Clicking on Actor (LMB): Pillar_C (Pillar6)
+[2021.07.28-09.22.33:261][252]Cmd: DELETE
+[2021.07.28-09.22.33:261][252]Cmd: ACTOR DELETE
+[2021.07.28-09.22.33:269][252]LogEditorActor: Deleted Actor: Pillar_C
+[2021.07.28-09.22.33:275][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.28-09.22.33:277][252]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.28-09.22.40:532][ 94]Cmd: DELETE
+[2021.07.28-09.22.40:532][ 94]Cmd: ACTOR DELETE
+[2021.07.28-09.22.40:542][ 94]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.22.40:549][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.07.28-09.22.40:599][ 94]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2021.07.28-09.22.41:205][158]Cmd: DELETE
+[2021.07.28-09.22.41:205][158]Cmd: ACTOR DELETE
+[2021.07.28-09.22.41:215][158]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.22.41:222][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.07.28-09.22.41:272][158]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2021.07.28-09.22.42:379][280]Cmd: DELETE
+[2021.07.28-09.22.42:379][280]Cmd: ACTOR DELETE
+[2021.07.28-09.22.42:389][280]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.22.42:397][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.07.28-09.22.42:445][280]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2021.07.28-09.22.43:064][346]Cmd: DELETE
+[2021.07.28-09.22.43:064][346]Cmd: ACTOR DELETE
+[2021.07.28-09.22.43:073][346]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.22.43:081][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.28-09.22.43:128][346]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2021.07.28-09.22.43:889][429]Cmd: DELETE
+[2021.07.28-09.22.43:889][429]Cmd: ACTOR DELETE
+[2021.07.28-09.22.43:899][429]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.22.43:907][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.28-09.22.43:954][429]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2021.07.28-09.22.52:188][351]LogEditorViewport: Clicking on Actor (LMB): Key_BP_C (Key_BP)
+[2021.07.28-09.22.53:151][457]LogEditorViewport: Clicking on Actor (LMB): Key_BP_C (Key_BP)
+[2021.07.28-09.23.08:466][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree15)
+[2021.07.28-09.23.14:065][841]Cmd: DELETE
+[2021.07.28-09.23.14:065][841]Cmd: ACTOR DELETE
+[2021.07.28-09.23.14:075][841]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-09.23.14:093][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.07.28-09.23.14:141][841]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2021.07.28-09.26.39:728][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.28-09.26.40:542][499]LogSavePackage: Moving '../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/LevelTest7_Auto11B383DE247531F57A45748BB330BEC9F.tmp' to '../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Autosaves/Game/Maps/LevelTest7_Auto1.umap'
+[2021.07.28-09.26.40:543][499]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LevelTest7' took 0.822
+[2021.07.28-09.26.40:543][499]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.822
+[2021.07.28-11.25.52:874][891]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.07.28-11.25.53:804][995]Cmd: DELETE
+[2021.07.28-11.25.53:804][995]Cmd: ACTOR DELETE
+[2021.07.28-11.25.53:813][995]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.25.53:820][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.28-11.25.53:849][995]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2021.07.28-11.25.54:292][ 40]Cmd: DELETE
+[2021.07.28-11.25.54:292][ 40]Cmd: ACTOR DELETE
+[2021.07.28-11.25.54:299][ 40]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.25.54:307][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.07.28-11.25.54:333][ 40]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2021.07.28-11.25.59:333][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.07.28-11.25.59:961][670]Cmd: DELETE
+[2021.07.28-11.25.59:961][670]Cmd: ACTOR DELETE
+[2021.07.28-11.25.59:968][670]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.25.59:976][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.28-11.25.59:977][670]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.28-11.26.00:333][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.07.28-11.26.00:426][712]Cmd: DELETE
+[2021.07.28-11.26.00:426][712]Cmd: ACTOR DELETE
+[2021.07.28-11.26.00:433][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.00:439][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.07.28-11.26.00:440][712]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.02:279][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2021.07.28-11.26.02:625][970]Cmd: DELETE
+[2021.07.28-11.26.02:625][970]Cmd: ACTOR DELETE
+[2021.07.28-11.26.02:632][970]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.02:638][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.26.02:640][970]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.07:313][510]Cmd: DELETE
+[2021.07.28-11.26.07:313][510]Cmd: ACTOR DELETE
+[2021.07.28-11.26.07:321][510]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.26.07:328][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.26.07:353][510]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.07.28-11.26.20:558][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree12)
+[2021.07.28-11.26.23:103][370]Cmd: DELETE
+[2021.07.28-11.26.23:103][370]Cmd: ACTOR DELETE
+[2021.07.28-11.26.23:110][370]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.23:118][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.28-11.26.23:120][370]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.28-11.26.23:929][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree13)
+[2021.07.28-11.26.24:086][477]Cmd: DELETE
+[2021.07.28-11.26.24:086][477]Cmd: ACTOR DELETE
+[2021.07.28-11.26.24:092][477]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.24:100][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-11.26.24:100][477]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.24:630][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock15)
+[2021.07.28-11.26.24:679][541]Cmd: DELETE
+[2021.07.28-11.26.24:679][541]Cmd: ACTOR DELETE
+[2021.07.28-11.26.24:687][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.24:694][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.07.28-11.26.24:695][541]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.25:261][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree10)
+[2021.07.28-11.26.25:338][612]Cmd: DELETE
+[2021.07.28-11.26.25:338][612]Cmd: ACTOR DELETE
+[2021.07.28-11.26.25:345][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.25:352][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-11.26.25:352][612]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.26:085][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock17)
+[2021.07.28-11.26.26:187][707]Cmd: DELETE
+[2021.07.28-11.26.26:187][707]Cmd: ACTOR DELETE
+[2021.07.28-11.26.26:194][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.26:201][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-11.26.26:202][707]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.26:537][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock13)
+[2021.07.28-11.26.26:660][757]Cmd: DELETE
+[2021.07.28-11.26.26:660][757]Cmd: ACTOR DELETE
+[2021.07.28-11.26.26:667][757]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.26:672][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-11.26.26:673][757]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.26.27:057][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree3)
+[2021.07.28-11.26.27:137][807]Cmd: DELETE
+[2021.07.28-11.26.27:137][807]Cmd: ACTOR DELETE
+[2021.07.28-11.26.27:144][807]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.27:151][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.26.27:151][807]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.27:616][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush13)
+[2021.07.28-11.26.27:686][866]Cmd: DELETE
+[2021.07.28-11.26.27:686][866]Cmd: ACTOR DELETE
+[2021.07.28-11.26.27:693][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.27:700][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.07.28-11.26.27:701][866]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.28:222][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock14)
+[2021.07.28-11.26.28:275][930]Cmd: DELETE
+[2021.07.28-11.26.28:275][930]Cmd: ACTOR DELETE
+[2021.07.28-11.26.28:282][930]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.28:288][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.26.28:288][930]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.26.28:695][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree5)
+[2021.07.28-11.26.28:798][986]Cmd: DELETE
+[2021.07.28-11.26.28:798][986]Cmd: ACTOR DELETE
+[2021.07.28-11.26.28:805][986]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.28:811][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.28-11.26.28:812][986]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.29:296][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush15)
+[2021.07.28-11.26.29:422][ 54]Cmd: DELETE
+[2021.07.28-11.26.29:423][ 54]Cmd: ACTOR DELETE
+[2021.07.28-11.26.29:430][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.29:437][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.07.28-11.26.29:438][ 54]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.29:990][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree7)
+[2021.07.28-11.26.30:126][131]Cmd: DELETE
+[2021.07.28-11.26.30:126][131]Cmd: ACTOR DELETE
+[2021.07.28-11.26.30:133][131]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.30:140][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.26.30:140][131]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.30:827][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree6)
+[2021.07.28-11.26.30:972][227]Cmd: DELETE
+[2021.07.28-11.26.30:972][227]Cmd: ACTOR DELETE
+[2021.07.28-11.26.30:978][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.30:985][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.28-11.26.30:986][227]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.31:743][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock16)
+[2021.07.28-11.26.31:901][332]Cmd: DELETE
+[2021.07.28-11.26.31:901][332]Cmd: ACTOR DELETE
+[2021.07.28-11.26.31:908][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.31:916][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.28-11.26.31:917][332]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.32:259][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush18)
+[2021.07.28-11.26.32:353][379]Cmd: DELETE
+[2021.07.28-11.26.32:353][379]Cmd: ACTOR DELETE
+[2021.07.28-11.26.32:360][379]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.32:367][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.07.28-11.26.32:367][379]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.33:245][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree9)
+[2021.07.28-11.26.33:427][502]Cmd: DELETE
+[2021.07.28-11.26.33:427][502]Cmd: ACTOR DELETE
+[2021.07.28-11.26.33:434][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.33:441][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.26.33:442][502]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.33:959][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree14)
+[2021.07.28-11.26.34:081][575]Cmd: DELETE
+[2021.07.28-11.26.34:081][575]Cmd: ACTOR DELETE
+[2021.07.28-11.26.34:088][575]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.34:095][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.28-11.26.34:095][575]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.34:831][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree11)
+[2021.07.28-11.26.35:043][685]Cmd: DELETE
+[2021.07.28-11.26.35:043][685]Cmd: ACTOR DELETE
+[2021.07.28-11.26.35:049][685]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.35:056][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.28-11.26.35:057][685]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.35:398][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock12)
+[2021.07.28-11.26.35:566][741]Cmd: DELETE
+[2021.07.28-11.26.35:567][741]Cmd: ACTOR DELETE
+[2021.07.28-11.26.35:573][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.35:580][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.07.28-11.26.35:580][741]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.35:961][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock26)
+[2021.07.28-11.26.36:081][797]Cmd: DELETE
+[2021.07.28-11.26.36:081][797]Cmd: ACTOR DELETE
+[2021.07.28-11.26.36:089][797]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.36:095][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-11.26.36:095][797]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.37:430][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree20)
+[2021.07.28-11.26.37:556][967]Cmd: DELETE
+[2021.07.28-11.26.37:556][967]Cmd: ACTOR DELETE
+[2021.07.28-11.26.37:563][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.37:569][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.26.37:570][967]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.26.38:126][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree3)
+[2021.07.28-11.26.38:255][ 44]Cmd: DELETE
+[2021.07.28-11.26.38:255][ 44]Cmd: ACTOR DELETE
+[2021.07.28-11.26.38:266][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.38:273][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.28-11.26.38:274][ 44]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.07.28-11.26.38:651][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock4)
+[2021.07.28-11.26.38:809][102]Cmd: DELETE
+[2021.07.28-11.26.38:809][102]Cmd: ACTOR DELETE
+[2021.07.28-11.26.38:816][102]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.38:823][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.26.38:823][102]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.39:116][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock24)
+[2021.07.28-11.26.39:263][150]Cmd: DELETE
+[2021.07.28-11.26.39:263][150]Cmd: ACTOR DELETE
+[2021.07.28-11.26.39:270][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.39:277][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.26.39:278][150]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.39:588][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush4)
+[2021.07.28-11.26.39:711][196]Cmd: DELETE
+[2021.07.28-11.26.39:711][196]Cmd: ACTOR DELETE
+[2021.07.28-11.26.39:718][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.39:725][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-11.26.39:726][196]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.40:274][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush3)
+[2021.07.28-11.26.40:362][268]Cmd: DELETE
+[2021.07.28-11.26.40:362][268]Cmd: ACTOR DELETE
+[2021.07.28-11.26.40:369][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.40:375][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.28-11.26.40:376][268]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.41:293][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree4)
+[2021.07.28-11.26.41:564][406]Cmd: DELETE
+[2021.07.28-11.26.41:564][406]Cmd: ACTOR DELETE
+[2021.07.28-11.26.41:571][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.41:578][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.07.28-11.26.41:579][406]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.42:160][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock23)
+[2021.07.28-11.26.42:270][484]Cmd: DELETE
+[2021.07.28-11.26.42:270][484]Cmd: ACTOR DELETE
+[2021.07.28-11.26.42:277][484]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.42:283][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.07.28-11.26.42:284][484]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.42:849][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush5)
+[2021.07.28-11.26.42:975][562]Cmd: DELETE
+[2021.07.28-11.26.42:975][562]Cmd: ACTOR DELETE
+[2021.07.28-11.26.42:982][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.42:989][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.26.42:990][562]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.43:397][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock25)
+[2021.07.28-11.26.43:514][619]Cmd: DELETE
+[2021.07.28-11.26.43:514][619]Cmd: ACTOR DELETE
+[2021.07.28-11.26.43:520][619]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.43:527][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-11.26.43:528][619]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.43:934][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock11)
+[2021.07.28-11.26.44:032][675]Cmd: DELETE
+[2021.07.28-11.26.44:032][675]Cmd: ACTOR DELETE
+[2021.07.28-11.26.44:038][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.44:044][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.26.44:045][675]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.26.44:874][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush14)
+[2021.07.28-11.26.45:068][792]Cmd: DELETE
+[2021.07.28-11.26.45:068][792]Cmd: ACTOR DELETE
+[2021.07.28-11.26.45:074][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.45:082][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.07.28-11.26.45:083][792]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.45:697][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock3)
+[2021.07.28-11.26.45:941][890]Cmd: DELETE
+[2021.07.28-11.26.45:941][890]Cmd: ACTOR DELETE
+[2021.07.28-11.26.45:948][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.45:954][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.28-11.26.45:954][890]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.46:364][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush19)
+[2021.07.28-11.26.46:493][949]Cmd: DELETE
+[2021.07.28-11.26.46:493][949]Cmd: ACTOR DELETE
+[2021.07.28-11.26.46:500][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.46:507][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.07.28-11.26.46:508][949]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.47:223][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree19)
+[2021.07.28-11.26.47:498][ 62]Cmd: DELETE
+[2021.07.28-11.26.47:498][ 62]Cmd: ACTOR DELETE
+[2021.07.28-11.26.47:505][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.47:512][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.28-11.26.47:513][ 62]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.48:140][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock27)
+[2021.07.28-11.26.48:306][153]Cmd: DELETE
+[2021.07.28-11.26.48:306][153]Cmd: ACTOR DELETE
+[2021.07.28-11.26.48:312][153]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.48:319][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.26.48:320][153]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.49:512][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree8)
+[2021.07.28-11.26.49:679][311]Cmd: DELETE
+[2021.07.28-11.26.49:679][311]Cmd: ACTOR DELETE
+[2021.07.28-11.26.49:686][311]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.49:693][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.07.28-11.26.49:694][311]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.50:118][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock20)
+[2021.07.28-11.26.50:264][375]Cmd: DELETE
+[2021.07.28-11.26.50:264][375]Cmd: ACTOR DELETE
+[2021.07.28-11.26.50:271][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.50:278][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.28-11.26.50:279][375]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.50:800][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree16)
+[2021.07.28-11.26.50:927][449]Cmd: DELETE
+[2021.07.28-11.26.50:927][449]Cmd: ACTOR DELETE
+[2021.07.28-11.26.50:933][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.50:941][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.07.28-11.26.50:942][449]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.28-11.26.51:389][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush17)
+[2021.07.28-11.26.51:491][510]Cmd: DELETE
+[2021.07.28-11.26.51:491][510]Cmd: ACTOR DELETE
+[2021.07.28-11.26.51:497][510]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.51:503][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.26.51:504][510]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.26.52:112][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree18)
+[2021.07.28-11.26.52:296][600]Cmd: DELETE
+[2021.07.28-11.26.52:296][600]Cmd: ACTOR DELETE
+[2021.07.28-11.26.52:303][600]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.52:310][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.28-11.26.52:311][600]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.53:091][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree18)
+[2021.07.28-11.26.53:295][714]Cmd: DELETE
+[2021.07.28-11.26.53:295][714]Cmd: ACTOR DELETE
+[2021.07.28-11.26.53:301][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.53:309][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.07.28-11.26.53:309][714]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.54:416][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree17)
+[2021.07.28-11.26.54:649][870]Cmd: DELETE
+[2021.07.28-11.26.54:649][870]Cmd: ACTOR DELETE
+[2021.07.28-11.26.54:656][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.54:663][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.28-11.26.54:665][870]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.28-11.26.55:514][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock21)
+[2021.07.28-11.26.56:061][ 33]Cmd: DELETE
+[2021.07.28-11.26.56:061][ 33]Cmd: ACTOR DELETE
+[2021.07.28-11.26.56:067][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.56:073][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.26.56:074][ 33]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.26.57:377][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree15)
+[2021.07.28-11.26.57:965][256]Cmd: DELETE
+[2021.07.28-11.26.57:966][256]Cmd: ACTOR DELETE
+[2021.07.28-11.26.57:972][256]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.26.57:978][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.07.28-11.26.57:979][256]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.01:163][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree15)
+[2021.07.28-11.27.02:141][751]Cmd: DELETE
+[2021.07.28-11.27.02:141][751]Cmd: ACTOR DELETE
+[2021.07.28-11.27.02:148][751]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.02:154][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.27.02:156][751]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.05:205][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree17)
+[2021.07.28-11.27.06:074][217]Cmd: DELETE
+[2021.07.28-11.27.06:074][217]Cmd: ACTOR DELETE
+[2021.07.28-11.27.06:080][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.06:088][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.27.06:089][217]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.09:099][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree16)
+[2021.07.28-11.27.09:511][624]Cmd: DELETE
+[2021.07.28-11.27.09:511][624]Cmd: ACTOR DELETE
+[2021.07.28-11.27.09:518][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.09:524][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.27.09:525][624]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.12:449][970]Cmd: DELETE
+[2021.07.28-11.27.12:449][970]Cmd: ACTOR DELETE
+[2021.07.28-11.27.12:457][970]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.27.12:463][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.27.12:487][970]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.07.28-11.27.14:189][172]Cmd: TRANSACTION UNDO
+[2021.07.28-11.27.14:189][172]LogEditorTransaction: Undo Delete Actors
+[2021.07.28-11.27.15:252][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree2)
+[2021.07.28-11.27.15:780][310]Cmd: DELETE
+[2021.07.28-11.27.15:780][310]Cmd: ACTOR DELETE
+[2021.07.28-11.27.15:786][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.15:792][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.28-11.27.15:794][310]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.16:444][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree8)
+[2021.07.28-11.27.16:540][396]Cmd: DELETE
+[2021.07.28-11.27.16:540][396]Cmd: ACTOR DELETE
+[2021.07.28-11.27.16:545][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.16:552][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.27.16:553][396]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.17:194][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree9)
+[2021.07.28-11.27.17:482][504]Cmd: DELETE
+[2021.07.28-11.27.17:482][504]Cmd: ACTOR DELETE
+[2021.07.28-11.27.17:489][504]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.17:494][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.27.17:495][504]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.18:020][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree10)
+[2021.07.28-11.27.18:132][577]Cmd: DELETE
+[2021.07.28-11.27.18:132][577]Cmd: ACTOR DELETE
+[2021.07.28-11.27.18:138][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.18:144][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.27.18:145][577]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.18:645][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock7)
+[2021.07.28-11.27.18:767][648]Cmd: DELETE
+[2021.07.28-11.27.18:767][648]Cmd: ACTOR DELETE
+[2021.07.28-11.27.18:773][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.18:779][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.27.18:780][648]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.19:266][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush8)
+[2021.07.28-11.27.19:542][735]Cmd: DELETE
+[2021.07.28-11.27.19:542][735]Cmd: ACTOR DELETE
+[2021.07.28-11.27.19:548][735]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.19:555][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.27.19:556][735]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.20:160][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush7)
+[2021.07.28-11.27.20:283][818]Cmd: DELETE
+[2021.07.28-11.27.20:283][818]Cmd: ACTOR DELETE
+[2021.07.28-11.27.20:289][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.20:296][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.28-11.27.20:297][818]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.20:852][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree)
+[2021.07.28-11.27.21:010][899]Cmd: DELETE
+[2021.07.28-11.27.21:010][899]Cmd: ACTOR DELETE
+[2021.07.28-11.27.21:017][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.21:024][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.07.28-11.27.21:025][899]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.21:797][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush10)
+[2021.07.28-11.27.21:896][999]Cmd: DELETE
+[2021.07.28-11.27.21:896][999]Cmd: ACTOR DELETE
+[2021.07.28-11.27.21:902][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.21:909][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.28-11.27.21:910][999]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.22:394][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush11)
+[2021.07.28-11.27.22:546][ 72]Cmd: DELETE
+[2021.07.28-11.27.22:546][ 72]Cmd: ACTOR DELETE
+[2021.07.28-11.27.22:553][ 72]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.22:559][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.28-11.27.22:559][ 72]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.23:040][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush16)
+[2021.07.28-11.27.23:194][144]Cmd: DELETE
+[2021.07.28-11.27.23:194][144]Cmd: ACTOR DELETE
+[2021.07.28-11.27.23:200][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.23:206][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.07.28-11.27.23:207][144]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.23:832][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree14)
+[2021.07.28-11.27.23:998][235]Cmd: DELETE
+[2021.07.28-11.27.23:998][235]Cmd: ACTOR DELETE
+[2021.07.28-11.27.24:004][235]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.24:011][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.28-11.27.24:012][235]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.24:552][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush12)
+[2021.07.28-11.27.24:724][315]Cmd: DELETE
+[2021.07.28-11.27.24:725][315]Cmd: ACTOR DELETE
+[2021.07.28-11.27.24:731][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.24:737][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.28-11.27.24:738][315]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.25:288][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree12)
+[2021.07.28-11.27.25:471][399]Cmd: DELETE
+[2021.07.28-11.27.25:471][399]Cmd: ACTOR DELETE
+[2021.07.28-11.27.25:480][399]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.25:487][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.27.25:487][399]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.07.28-11.27.25:915][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock18)
+[2021.07.28-11.27.26:052][463]Cmd: DELETE
+[2021.07.28-11.27.26:052][463]Cmd: ACTOR DELETE
+[2021.07.28-11.27.26:058][463]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.26:064][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.28-11.27.26:066][463]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.26:491][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree13)
+[2021.07.28-11.27.26:646][529]Cmd: DELETE
+[2021.07.28-11.27.26:646][529]Cmd: ACTOR DELETE
+[2021.07.28-11.27.26:652][529]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.26:659][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.27.26:660][529]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.27:150][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush21)
+[2021.07.28-11.27.27:283][599]Cmd: DELETE
+[2021.07.28-11.27.27:283][599]Cmd: ACTOR DELETE
+[2021.07.28-11.27.27:289][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.27:295][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.28-11.27.27:297][599]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.28:962][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree4)
+[2021.07.28-11.27.29:219][825]Cmd: DELETE
+[2021.07.28-11.27.29:219][825]Cmd: ACTOR DELETE
+[2021.07.28-11.27.29:225][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.29:231][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.28-11.27.29:232][825]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.07.28-11.27.29:756][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush2)
+[2021.07.28-11.27.29:888][899]Cmd: DELETE
+[2021.07.28-11.27.29:888][899]Cmd: ACTOR DELETE
+[2021.07.28-11.27.29:894][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.29:899][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.07.28-11.27.29:900][899]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.07.28-11.27.30:365][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock2)
+[2021.07.28-11.27.30:514][968]Cmd: DELETE
+[2021.07.28-11.27.30:514][968]Cmd: ACTOR DELETE
+[2021.07.28-11.27.30:521][968]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.30:527][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.27.30:528][968]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.36:647][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock10)
+[2021.07.28-11.27.37:452][787]Cmd: DELETE
+[2021.07.28-11.27.37:452][787]Cmd: ACTOR DELETE
+[2021.07.28-11.27.37:458][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.37:465][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.27.37:466][787]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.28-11.27.38:143][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallTree5)
+[2021.07.28-11.27.38:280][881]Cmd: DELETE
+[2021.07.28-11.27.38:280][881]Cmd: ACTOR DELETE
+[2021.07.28-11.27.38:286][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.38:291][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.28-11.27.38:292][881]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.07.28-11.27.38:941][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock)
+[2021.07.28-11.27.39:047][967]Cmd: DELETE
+[2021.07.28-11.27.39:047][967]Cmd: ACTOR DELETE
+[2021.07.28-11.27.39:052][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.28-11.27.39:058][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.28-11.27.39:059][967]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.07.28-11.27.39:440][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush)
+[2021.07.28-11.27.48:897][120]Cmd: DELETE
+[2021.07.28-11.27.48:897][120]Cmd: ACTOR DELETE
+[2021.07.28-11.27.48:904][120]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.27.48:911][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.28-11.27.48:935][120]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.07.28-11.27.50:553][302]Cmd: DELETE
+[2021.07.28-11.27.50:553][302]Cmd: ACTOR DELETE
+[2021.07.28-11.27.50:560][302]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.27.50:567][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.07.28-11.27.50:590][302]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.07.28-11.27.51:473][402]Cmd: DELETE
+[2021.07.28-11.27.51:473][402]Cmd: ACTOR DELETE
+[2021.07.28-11.27.51:480][402]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.27.51:488][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.07.28-11.27.51:510][402]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.07.28-11.27.55:293][848]Cmd: DELETE
+[2021.07.28-11.27.55:293][848]Cmd: ACTOR DELETE
+[2021.07.28-11.27.55:300][848]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.27.55:308][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.07.28-11.27.55:329][848]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.07.28-11.27.56:238][950]Cmd: DELETE
+[2021.07.28-11.27.56:238][950]Cmd: ACTOR DELETE
+[2021.07.28-11.27.56:244][950]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.27.56:251][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.28-11.27.56:272][950]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.07.28-11.27.56:779][  3]Cmd: DELETE
+[2021.07.28-11.27.56:779][  3]Cmd: ACTOR DELETE
+[2021.07.28-11.27.56:786][  3]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.27.56:793][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.28-11.27.56:813][  3]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.07.28-11.27.57:676][100]Cmd: DELETE
+[2021.07.28-11.27.57:676][100]Cmd: ACTOR DELETE
+[2021.07.28-11.27.57:683][100]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.27.57:691][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.28-11.27.57:711][100]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.07.28-11.27.58:436][181]Cmd: DELETE
+[2021.07.28-11.27.58:436][181]Cmd: ACTOR DELETE
+[2021.07.28-11.27.58:442][181]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.27.58:449][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.07.28-11.27.58:468][181]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.07.28-11.27.59:132][252]Cmd: DELETE
+[2021.07.28-11.27.59:133][252]Cmd: ACTOR DELETE
+[2021.07.28-11.27.59:139][252]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.27.59:147][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.28-11.27.59:165][252]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.07.28-11.28.01:053][471]Cmd: DELETE
+[2021.07.28-11.28.01:053][471]Cmd: ACTOR DELETE
+[2021.07.28-11.28.01:059][471]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.28.01:067][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.28-11.28.01:084][471]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.07.28-11.28.02:245][604]Cmd: DELETE
+[2021.07.28-11.28.02:245][604]Cmd: ACTOR DELETE
+[2021.07.28-11.28.02:251][604]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.28.02:259][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.28-11.28.02:274][604]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.07.28-11.28.05:360][967]Cmd: DELETE
+[2021.07.28-11.28.05:360][967]Cmd: ACTOR DELETE
+[2021.07.28-11.28.05:369][967]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.28.05:376][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.07.28-11.28.05:392][967]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.07.28-11.28.06:835][134]Cmd: DELETE
+[2021.07.28-11.28.06:835][134]Cmd: ACTOR DELETE
+[2021.07.28-11.28.06:841][134]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.28.06:849][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.07.28-11.28.06:866][134]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.07.28-11.28.08:548][329]Cmd: DELETE
+[2021.07.28-11.28.08:548][329]Cmd: ACTOR DELETE
+[2021.07.28-11.28.08:554][329]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.28.08:562][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.28-11.28.08:576][329]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.07.28-11.28.10:679][576]Cmd: DELETE
+[2021.07.28-11.28.10:680][576]Cmd: ACTOR DELETE
+[2021.07.28-11.28.10:685][576]LogEditorActor: Deleted Actor: Brush
+[2021.07.28-11.28.10:694][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.07.28-11.28.10:708][576]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.07.28-11.29.02:686][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.07.28-11.29.02:788][755]LogSavePackage: Moving '../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/LevelTest7_Auto2F3D6409F48E5FCED18B067906E8EE052.tmp' to '../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Saved/Autosaves/Game/Maps/LevelTest7_Auto2.umap'
+[2021.07.28-11.29.02:788][755]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LevelTest7' took 0.111
+[2021.07.28-11.29.02:788][755]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.111
+[2021.07.28-11.34.39:535][893]LogEditorViewport: Clicking on Actor (CTRL LMB): Door_BP_C (Door_BP)
+[2021.07.28-11.35.22:842][729]LogEditorViewport: Clicking Background
+[2021.07.28-11.35.39:099][610]Cmd: TRANSACTION UNDO
+[2021.07.28-11.35.39:099][610]LogEditorTransaction: Undo Move Actors
+[2021.07.28-11.36.00:779][ 90]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.00:779][ 90]LogEditorTransaction: Undo Rotate Actors
+[2021.07.28-11.36.03:360][347]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.03:360][347]LogEditorTransaction: Undo Rotate Actors
+[2021.07.28-11.36.23:009][632]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.23:009][632]LogEditorTransaction: Undo Move Actors
+[2021.07.28-11.36.23:222][637]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.23:222][637]LogEditorTransaction: Undo Move Actors
+[2021.07.28-11.36.23:624][658]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.23:624][658]LogEditorTransaction: Undo Move Actors
+[2021.07.28-11.36.24:123][713]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.24:123][713]LogEditorTransaction: Undo Rotate Actors
+[2021.07.28-11.36.24:544][755]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.24:544][755]LogEditorTransaction: Undo Rotate Actors
+[2021.07.28-11.36.24:990][803]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.24:990][803]LogEditorTransaction: Undo Rotate Actors
+[2021.07.28-11.36.25:340][840]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.25:340][840]LogEditorTransaction: Undo Rotate Actors
+[2021.07.28-11.36.25:615][868]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.25:615][868]LogEditorTransaction: Undo Move Actors
+[2021.07.28-11.36.25:983][905]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.25:983][905]LogEditorTransaction: Undo Move Actors
+[2021.07.28-11.36.26:308][939]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.26:308][939]LogEditorTransaction: Undo Rotate Actors
+[2021.07.28-11.36.26:600][968]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.26:600][968]LogEditorTransaction: Undo Rotate Actors
+[2021.07.28-11.36.26:898][999]Cmd: TRANSACTION UNDO
+[2021.07.28-11.36.26:898][999]LogEditorTransaction: Undo Move Actors
+[2021.07.28-11.36.28:190][147]Cmd: TRANSACTION REDO
+[2021.07.28-11.36.28:190][147]LogEditorTransaction: Redo Move Actors
