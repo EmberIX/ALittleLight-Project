@@ -170,9 +170,11 @@
 			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
 			"Assets": [
 				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Mesh/M_Mannequin.uasset",
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/ObjectModel/Vetro.uasset",
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/ObjectModel/Metallo.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Model/defaultMat.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Model/defaultMat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/DemoRoom/Meshes/Fbx_Default_Material.uasset"
 			]
 		},
 		{
@@ -224,63 +226,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A3A29E6BE985C9F036DA96148A17DD18BC67C546",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Materials/Mat_Grass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "F197F38A02CD30B885F7E9894AAD207753934DDD",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/MA_lowpolyGrass.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_05_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_04_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_06_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_04_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_02_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_01_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_03_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_02_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_01_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/ContentExamples/colorExamples/darkGreen_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/ContentExamples/colorExamples/darkBrown_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/ContentExamples/colorExamples/brightGreen_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/ContentExamples/colorExamples/brightBrown_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_05_Mat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_03_Mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "EC9441353C37856403F3B8A5CEF42B74E985626E",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Materials/Mat_GroundGrass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "02C7A63D410A735787C204323AC17FA4FD145DC2",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B42C73DAA81FFE10E75609A236B122BF9DC3292D",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Magic_Tree/defaultMat.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/BlueTree/Material__27.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
 				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FA29109E19D10DC4E1653C126BB1AB9D61C3100E",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Maps/MainScene.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Maps/LevelTest5.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Maps/Lvltest0.uasset"
 			]
 		},
 		{
@@ -296,51 +244,64 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F2FC789DC2FC45D822A59D3CB3603D7B827EC734",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Magic_Circle_Creator/Materials/Base_materials/M_LearningMesh.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A8CD49CADE9B137CF7C03A64BE7AB7E74EC7457",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Magic_Circle_Creator/Materials/Instances/MI_LearningMesh-01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D60144B904418B3D3602AC22D3C44EABC298FAF4",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Magic_Circle_Creator/Materials/M_CreatorMaster.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "7F83AC4F630484DCDBBCEA3D75F9227A2C34B742",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "32FC46689DDE400FAB74C1E9DA406E3A15617308",
+			"ShaderMapHash": "21E77C0BFC6B1BA67DE5EB869FE38886B0AE20E5",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/LightSphere.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Wiz.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "29E2310EC8A0120FA8273046205F95A1E26508FD",
+			"ShaderMapHash": "3D65B5A5454DECDBDB769A8430563ED6F55465F5",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Mesh/Mat.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_DustEmmisive.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "DA59E3F9447EC65312D6D854FE96C3EC75CF2113",
+			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Mesh/lambert1.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "79E837EA9C04F73B3A00661B5D3617C6CB8FFFFB",
+			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/GhostPar_M.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "727EFBA29C3AA892E796CAA370A55B8A69402BE9",
+			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/GodRay.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "281D31A95565FCD4C1EDD2C2430C20415D05E3AD",
+			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Mesh/Tree_M/Tree_M.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "40DDE508576D1E82F468023A2F3BD422298DE60F",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Materials/Mat_ColorWhite.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
 			]
 		},
 		{
@@ -350,21 +311,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "71FCFC1DAE495131E0F74DBE373DB0113D51F61C",
+			"ShaderMapHash": "0D6974DD1E5D484A6691DA3CE009EE889712D209",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Animation/NewModelAnimation/NewModelTexture/M_Character.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "4442ECD6AF786883A2D80448E4265B33E8AD9323",
+			"ShaderMapHash": "4A8865C5E911FBAC27FAF960E655D747BE6F543D",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Metal_Rust.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "17B2758286D829FF6589C4CD01F8701D618225E8",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset"
 			]
 		},
 		{
@@ -383,12 +338,6 @@
 			"ShaderMapHash": "94EB8C42486608465E948598270DF54AC28B49A8",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Ground_Grass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5EBD21CA1F39FA1FA02DEF349FEDA14BF73B3CE5",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
 			]
 		},
 		{
@@ -471,6 +420,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9D072CEB90ACE1E03714F2A2BBFE16A76CEAE01C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "B9D4A13B9CE3552A35825569AC23B9084B3077AC",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
@@ -480,6 +435,12 @@
 			"ShaderMapHash": "94CB72591BFB1AA0F8993301571CBEC81649DBD4",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4442ECD6AF786883A2D80448E4265B33E8AD9323",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Metal_Rust.uasset"
 			]
 		},
 		{
@@ -498,6 +459,33 @@
 			"ShaderMapHash": "A5623A7246D9C37E244D4F1BF9DAA428D5E010D1",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F197F38A02CD30B885F7E9894AAD207753934DDD",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_05_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_04_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_06_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_04_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_02_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_01_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_03_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/MA_lowpolyGrass.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_02_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_01_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/ContentExamples/colorExamples/darkGreen_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/ContentExamples/colorExamples/darkBrown_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/ContentExamples/colorExamples/brightGreen_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/ContentExamples/colorExamples/brightBrown_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_03_Mat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/Materials/Grass_01/Grass_01_Brush_05_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "17B2758286D829FF6589C4CD01F8701D618225E8",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
 			]
 		},
 		{
@@ -621,46 +609,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_Spark.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Basic_Floor.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "9D072CEB90ACE1E03714F2A2BBFE16A76CEAE01C",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
 			]
 		},
 		{
@@ -725,6 +682,19 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A3A29E6BE985C9F036DA96148A17DD18BC67C546",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Materials/Mat_Grass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B42C73DAA81FFE10E75609A236B122BF9DC3292D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Magic_Tree/defaultMat.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/BlueTree/Material__27.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/PN_LowpolyGras/UE4_ThirdPerson/Mannequin/Character/Materials/M_UE4Man_Body.uasset",
@@ -739,15 +709,170 @@
 			]
 		},
 		{
+			"ShaderMapHash": "02C7A63D410A735787C204323AC17FA4FD145DC2",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA29109E19D10DC4E1653C126BB1AB9D61C3100E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Maps/MainScene.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Maps/Level3.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Maps/Lvltest0.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EC9441353C37856403F3B8A5CEF42B74E985626E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Materials/Mat_GroundGrass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "79E837EA9C04F73B3A00661B5D3617C6CB8FFFFB",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/GhostPar_M2.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/GhostPar_M.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "715821AAEF5CEB2E85B3278909F041368D3C73B1",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body.uasset"
 			]
 		},
 		{
+			"ShaderMapHash": "6C504908F2721E92E9EBA4704E063B68B38BF88A",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Magic_Circle_Creator/Materials/Base_materials/M_MasterOverview.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4ED716F53C86A2D3C0E611CCE9B3E9DA59ADF7E9",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Magic_Circle_Creator/Materials/Base_materials/M_LearningRoom-RUS-Font.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A22E593C3E1538F734CD00F22E2B9B33C413351E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Magic_Circle_Creator/Materials/Base_materials/M_DocPicture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DAA0489368B09434F731C60B5CB10C153D8959B8",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_DemoWallPattern_NoText.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "55BD5F71B753807852F25D821B0B8C7957CEFBFB",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_DemoWallPattern_Inst_Mirrored.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "C66310B05BBDC7FD66FB4E7272FC70AC445CA829",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "40DDE508576D1E82F468023A2F3BD422298DE60F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Materials/Mat_ColorWhite.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "727EFBA29C3AA892E796CAA370A55B8A69402BE9",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/GodRay.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32FC46689DDE400FAB74C1E9DA406E3A15617308",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/LightSphere.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C3BAE99B38EA779338037C61ADB91CEE2569A548",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Mesh/lambert1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D25BEDC3A329E2B16AF83BCA1C6A6FDFA43E63B1",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/M_Mount_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "22DB11A60F2FFC1862262DDE712ACFB2D3A77642",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color/M_Color_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "45EB983568603B66446363AEB64D63FC6252A46E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/OrangeGhost.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "18CD7F4CE557832A759586ECE3E2172038902D82",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/Ghost_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E19E829CDE0C9FCCADC40753E9BEB73AE733F058",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Model/FatherTex.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Model/bag.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9B1FCCE1CED29FA3926A7A69925F5824836DEE3",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/LanternRoot_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "281D31A95565FCD4C1EDD2C2430C20415D05E3AD",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Mesh/Tree_M/Tree_M.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "29E2310EC8A0120FA8273046205F95A1E26508FD",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Mesh/Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "71FCFC1DAE495131E0F74DBE373DB0113D51F61C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Animation/NewModelAnimation/NewModelTexture/M_Character.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EBD21CA1F39FA1FA02DEF349FEDA14BF73B3CE5",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E55631BCEC135FC6B0D91B892681B4AA223C0746",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/DarkBrown.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E7C512F9620283116B06410CC70729487E1B07D0",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_Glass_Inst.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_Glass.uasset"
 			]
 		},
 		{
@@ -767,76 +892,209 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E19E829CDE0C9FCCADC40753E9BEB73AE733F058",
+			"ShaderMapHash": "9D74E922F35D3E42A8ED9F23BCF8F521D61E3C2A",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Model/bag.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Model/FatherTex.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Galaxy9.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "18CD7F4CE557832A759586ECE3E2172038902D82",
+			"ShaderMapHash": "A81BD5895500B0A4E246562A55E9AC893A9F2820",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/Ghost_2.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Galaxy8.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "174D7F29A49607A6888F9681DEA1689682B0ABC7",
+			"ShaderMapHash": "ABE2B6D2961E0A8F1C349029318AC0FB034CCA76",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/Ghost.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_SimpleTrail02.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "22DB11A60F2FFC1862262DDE712ACFB2D3A77642",
+			"ShaderMapHash": "AD72A5807F786E649DCECE5E471C87897C6B8683",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color/M_Color_Master.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_SimpleTrail01.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "16BD88B418A23803496C68D57CC779179CA508DA",
+			"ShaderMapHash": "D231310E06A57D7ACB1CB9600A92E04714582FDE",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_WoodPlank.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_SparkR.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "A3E5805818D96528145B00E0603ED89175D6AB98",
+			"ShaderMapHash": "7543F61FB289E746DD86718D2894BBFD62296DEB",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/Brown.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Stroke.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "D25BEDC3A329E2B16AF83BCA1C6A6FDFA43E63B1",
+			"ShaderMapHash": "660D34E50EF3E58872ACCF22F0E393E75BAC4F73",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/M_Mount_Master.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Railin.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "9499D045B0F86613DDCCA9784E22578DEF432957",
+			"ShaderMapHash": "144F52EE42480754A6E3426E48BC6C22132A5462",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Tropic.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_FireBright.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "D0D6AF39C3890E5A932C0785E9139E013D73A8B5",
+			"ShaderMapHash": "D135FCBFE177EB7C50D6D4F24F1CC6C9FB2EE1C5",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_wal_darken.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Aura2.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Aura.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "3EFA4BF862B3DE70024EEDDF2E2F4A5AD3A53EC6",
+			"ShaderMapHash": "69B5BE5F0EDE7D953796C385C1EC4CC3BCFD5DCB",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Materials/Mat_Flowers.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Stroke02.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "C50BA5BBCF857E4C96EAB856A85710406C707967",
+			"ShaderMapHash": "6DBD2DAF2E2EE798AB3106167405233847362073",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Materials/MatLandscape.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Railinfast.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "7DCEC805F3B065E18E30548E396F52A5BBE3CFF8",
+			"ShaderMapHash": "E2583EC5DCF0AAB02DA48728126240630FA0EC51",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Textures/T_Ground_Grass_Mat.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Fraction.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7BA0F7CD88BCFD9F7CB9A825A7F2E0FBC0A76AE9",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Galaxy6slow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1B7C17D1BE52BF5EE99CB508E0852CDA27049CF4",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Galaxy.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "82E144523205F4038C655B5A4658AA1F15ACA66E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_WaveDiamond.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E5212A49D46065BF180E89AA6EE6734A0957218",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Wave.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "93F25B0FB1D9B8054F54374F38ED806A56C9374D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Wave_Soft.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BD982682723C4466B6852D3F66EC92E34C4ADD8E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Stroke03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E7DCD08C51ECEF99C17DEC874DF75FC1BD06811",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Trib_Clear01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CEE2A3EEE5CC4A3107B9A069D35E0A73B2345F2",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Ink.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1E7DC6FFB4AE717323047CBF3B52EE8BC2E27F9B",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_AuraRadial_Blk.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BFF9212498CBF93B5CCED208502E284E68F97A7C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_AuraRadial.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Aura1_Radial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8A7279B996351B05900C2F2392272FFB19A38160",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Ghost.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2C06437232FCD63DC42BFC6C72B23143E32DD85E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Wave03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "08F695B272D147F06B5C9A34780C5820A2617C27",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Aura3.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2C31831F0E7478E09C3F4F2F219F31B498CBBE4F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Galaxy4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "744C5E393CEBFC0183E92D89E7D3A1053A6E2F21",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/m_Cloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0810B88ACAC39FAC1EC2268797FDF931785F997F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Galaxy7.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F6D390BD1F8B4CEC842870218CF308C38DFAF10E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Galaxy6.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7EA5A7264CC3ED139F6087A48DCE85A14F917EF4",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Wave02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2390BC6733DC02AACBF1D804F7D24A996F09F6DF",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Wave01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "58941EAA89EAC4345DB84D26C557627C8E84B0FB",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Trib_Clear02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6D8FA20E7B8333BF7C6798A0138A2BBA3CB09ED7",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Galaxy5.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1A66B30ED77526C2B8EE112F5384F85D7357ED2F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/TrailPack/Materials/M_Distortion.uasset"
 			]
 		},
 		{
@@ -894,6 +1152,1415 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A8FA65AE530F5317DB38A91E9DD589A354A914BF",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/Ghost.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9FB8A1C2EF40D18743607DCA6735757CE8F28815",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/Brown1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "58EC90C47AF27AB65FFE49F0F00D33F2D929D667",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_DemoWallPattern.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "455DFD0046BFFA537E9B4B2E7E521E6C1FAB8D67",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_DemoRoomTiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D9D570E73B7B8B118793C9FC9B026D7E2D2E9EA5",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_DemoWall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA68C847BDF56D8E93A655A51579E8096524CB0C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/DemoRoom/Materials/M_LightTube.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "535631FC3CBA2B3E73E38EDE2FD25856F099EA93",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Maps/PreviewMap.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FAE151D64C60A075B72559920C44E9609E5B6978",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Maps/PreviewMap.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ED6A4D21A0E0E45D6D5918FC52407E6D6E34A153",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Maps/PreviewMap.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "57BE5978A32E714205D2118C7E5FB71E147345B1",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Meterial/Brown.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9499D045B0F86613DDCCA9784E22578DEF432957",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Tropic.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "16BD88B418A23803496C68D57CC779179CA508DA",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_WoodPlank.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D0D6AF39C3890E5A932C0785E9139E013D73A8B5",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Materials/M_wal_darken.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA59E3F9447EC65312D6D854FE96C3EC75CF2113",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Mesh/PillowBlanket_Lambert.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Mesh/BedFrame_Lambert.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "08F16E9319913E66C8F47619BFDC87EEAC09AFA4",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FAB5D3E57C183C2E147A1B122DB1017F585FFE49",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_9.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "361091454415182E4DD2F263DA4D7AB72D4EB9C8",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_8.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "37021E48044118D5FC07D7141BCC0F00A353F367",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_7.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "09C886F2B6917A8F3635797DDD4EE8C4501D011B",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_6.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A53E780B0A71359E9EDF72C51037530B28D524D9",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_5.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "33B8C32B4AA2E8E4A7E78953044233565CE55CCB",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_4.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "59DA45565A1B216D9DDA05564BEEA778050D3D72",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_3.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E815F4047327373CE833907A1F8EBB9414A438D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A24E907004D3A8A230B608B2EF006449EA86903F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_20.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E08CE21E7DA871378EECDE02FFA4266736FC4853",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "962B781DD916B43A0AA972E04CAFA5329C9693D6",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_19.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7C3478877C0CAF2F44895F587218DB04C06627D3",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_18.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "50881B88D4A19600E36A14478FA914AD50ECA65B",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_17.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5C020877799A1E730BB44843DEAE0C431FC2D9A9",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_16.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E613AB54785CBFA71F96EA900C0A7315DAD4A671",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_15.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0DF0306297AB48F0E9006D6294756E0D611ACEE7",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_14.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C59D8B27D69867A5C354453241A2BE643B285666",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_13.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ECC2792DE3ECEEB46249A0309C537C4158380FEE",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_12.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "83CC6FB960EF114A33EE13E38D7237DE3B4118F1",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FC8D748C48B8C47D9D53AB00EBBFCCF93614CECA",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Magic_Circle_Creator/Niagara/FX_NiagaraMagic.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "77B70E3ABDC8B930DA4AA1EF17C8974EEDEB1794",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_11.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "00B8DF93601230DC62AF5041515CFBF113AEAD90",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Standart/M_Appearance_10.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "511E7C3F425F3EA7876DED4769BAF6659A465DF0",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_9_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "980FF89FA02F7F19BEB9D6BB5854DD1A314A809E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_8_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "014F8279438AA7289D675C226154F2190DBC3334",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_7_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1758FFC3999119306F261FBDECA1F2FF1BF2F5E1",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_6_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F60DFA553EB1C67F432FF0C7E2ABDE28B9EA9F0F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_5_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5B25B1A2923E6CADD40E0B9F4DE7CC5FB58E825F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Tile_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1B9C1E58592982976533C74CAAF4485058FDDF50",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Base_Emis_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BB5D537EBB8D341EE6847FAC8911298994504EA5",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_StaticMesh_Lit_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D570492075404F7077A7D1DD429A3527E808818D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master_Surface.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5CD6D8C3FF06A97CC3BA18AA43DD12AE17BDFD57",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master_DepthFade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "526517E551507BF88018DE00A31F1C928215EAF2",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5CBD90F53F350AFDC71D9B2B90516051FE117BE3",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD884D11A6999547FFE0132E3E4FAAECFDE569F9",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "163896AB388D923022D526F3CC288D5C8993DB9F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Lit_SubUV_Master.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastBase.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B427BBCDD2C73D227972CD6653279342E39BFF4F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_2Sided_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5F5689F26AFA54A3C85CCF7F191D0E8739589E67",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_2Sided_Pan_Mask_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EF88F98624AC8822B81F2D6F6ABE7985BB2819CB",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_Static_Lit_Emis_PanMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "30DC951AF30B328DECC7BCAD9825893115D4DBEC",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Lit_Emis_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0EF45CB8E4F0894F2BE115D0EC8883AF4B28C784",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master_Surface2.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master_Surface.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "83A855917EE6994A62D01A8A58B42D6045CB4B7D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Opaque_Axes_Spin.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9BA64DB4E9159C9D1F0B9492E936AB00C04731FD",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2C760CBC1A7FC2523F07F3BEEF609DE50EEE4959",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Emis_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0DAEADABDAD03D4044083F3903DA21A277BF787A",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master_DepthFade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0A629C01DE6A3AEEC83A1B5F01E78B68E726D908",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Pan_Emis_Mask_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C2C06F909C9CEB90BF1E910E5B2C814247E8D788",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BB3F37BBC538BB52C7E9CF0895FDE36DE1E88882",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GhostSkull.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B32DF2C368658081B5AE91DF5A0BF0AC4F4A5F41",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Emis_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69E85756E1F8FC4D0A4805C08FDEF790881F31A8",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Base_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "427688E1B402D1A48C48D6475AB7D7ECD0229052",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Env/M_Treasure_Gold_Add_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6F2C44BD467C04C95596A20E0970382A94A7AA9",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/M_GoldBag.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C2B5E0F0C01B8C632F7E34F718A6A21003CABE14",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Water_fountain_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF3A7DFF9823CF5EB16C8A31865B4E0F06F63E9D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Targeting_Enemy.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "73CB4B4582B710096C152B1083AA6FCA1EE5DC5B",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Lightning_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA32B6AC8DF2040798B30606786E95F247AAD59C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_IB_SwipeTrail.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "671C227695C9AF351B02E056156CB0274EB4ABB1",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Fire_03.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add_Ice_T3.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7BD8B715F0877003BB642A94671D3F310DA5CF46",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9883DC8DEC070E1FB626FB82874DBB3ABEF6C6B6",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Noise_Beam_01_INST.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Resurrection_Phoenix_INST.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "128141E3AEAB1DAD5F9D83BD6CA1581184C20CA6",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Noise/M_AuraCircle_02_INST.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A95E79FA9BF628FA9E205CE13B3C2FB3DB80B984",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_YinYang_Circle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7D913D4E7C7F0DCBF497E6617134C442C77C12F1",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_TraceTrail_Fire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "970129B1F3CE3A8F53145CDC2A9F75E638B9605C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Ice_Trans_UT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF18BD0F544B307F7F0B650F84FEEBD716B0AC38",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5F7913E1362084055DA92CF1B0CFAFB12389BA0C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7DBB6D451E6C0DFF856FCF75370782E3ADD776A4",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0AE2E0CE2B04F2D4EAED38ECFAECCDF541E3A8C9",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92528E8BF99E86D5ECFB201D12F73CE7EB367281",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27F5CDA904EC51EA7DFB932DF832966B63849474",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F7B20326737F0BF7A54165A8112EC6E25160AC02",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sword_Opaque_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2FA2744B4C9D94C816CBE3E19EF3AB40BDECB398",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_EdgeFade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F1467EE7E363D05B2CE258AE27613A872FFFD7C4",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Trail_MeshEmit_2Sided_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5C65A07DC1D5D4909D3F6985A494B295CF6C98CB",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_Add_2Sided_Emissive_MESH.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "08C2E7D125129365F4A111A9E2C89D7EFA20649C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SpikeTrap_Fire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0389CAD32BB562A2A67F1858DDEAB4BCE6DD4674",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spider_Anim.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C358E4DD4BC5EC46B193AC1CA36633F379C0753A",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spark_Add_01_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spark_2_2_01.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SparkCore_Add_01_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Shield_Rim_Add.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceHammerGlow.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glyph_Add_Outer_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glyph_Add_Inner_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_Radial_01.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FlashHalf_Add_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_03.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_02.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_01.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_04_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_04_Inst.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_03_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_02_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_01_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleFlame.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A08E93F1F6B062B72893485A0B67259EB131F8BC",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SnowSubUV_2_3_MeshEmit.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SnowSubUV_2_3.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_4_8_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_3_4_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeWispy_Gradient_Pan.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeSingle_Trans_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke3_Trans_subUV_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke2_Trans_subUV_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceSkills_Base.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowVert_Trans.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_Radial_01_Trans.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "86F7EE018D9B2628C29B02FBC792266BA0B5EC42",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Snow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA7245EB199B8B7D9A9F9104718BE1452FD94B61",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Add_subUV_mult.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Add_2_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Addit_subUV_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeSingle_Add.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke3_Add_subUV_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Impact_SubUV.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowVert_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "221B230D449295634580FF69D6FD1D9B89916F6C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeWispy_Pan.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "00A203E1DF6301967198753281E5D10966228D17",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeTile_Trail_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD3E6ACC62117F13B91C9B9A7DAB22FD5866391A",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SlashDir_Add_01_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01_2sided.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeLogo.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_03_2sided.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_01_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D35419B4BC375F2C637DBEF5806E8F37A01273EA",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sky_Flashing_Panning_Master.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sky_Flashing_Panning.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D021B5D6F0F98861EC38E6A1A98606219A0D9D94",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Skill_Vortex_Fire_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8C994F72FBC8A2074B667F13F8C21F3531C9308F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ShieldMesh_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9E2669E360FBB68078838FC2C51C29444E13223D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ReflectArrow_Grad.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "77F4E0F80041BD11A44DAD840E77E8C9B5AFF2F8",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Projectile_2Side_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "617BF05E98EA23BB25E2940522BB68DA7755DA8F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Projectile_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C8A80A67F2BBF0054E3D54A63EAC679198FB874F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Portal_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0F6DA9086ED3560E14B3785A8568B8CA9A5FC262",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Portal_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D75EAB91F4A212BE92E1B93DBD01138A0CADC30F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Telecharge_char_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2D4F312E19CE31DBDAC5EC875537CA1D7E7E5A49",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightSconces_Glow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "21150C7C551BEE4B839DC20116C3FD8F0CC4BC81",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Radial_add_subuv_4x4.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Bolt_01.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightCone.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Sprite_01_5x5_SubUV.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_subUV_2.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_subUV.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_RingsubUV.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Solid.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Edge.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Base.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C600686D441380CA20B0CE9811B428E28DC3B33B",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Arc_Add_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B0DA3BA23A23DAFA2D810C0733898DF10654CA3E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LevelRing_00.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E43CAF24901CF95FC0A263762C68D7B4C25F71D0",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeafFlip_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F932562EB4AC81D0223B1C91B0CA9AD0C5CE3509",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeachBeam_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1BFB6D28E96F7C0A44E3B25A54893E4653CC60E1",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lava_Flowing.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2581963C33FA0B8D8B5B8FBE8D9D7444B1405B0D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFire_MeshEmit_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD8128C12EAEAEDA3FAF612CD97A91297AAB4905",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFireBase_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8DA2E8E15EC0CE97CA630339D784A216A0F37FE9",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_Mesh_Unlit_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD6DA3352D04041FB15281CE7D7A2427446F59E6",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_D.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D0675E368F2C5F08A4239EE34B5173DDF120554",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Mesh03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0323571A9AA72A28F3FD2FB62DBC0D8D21C28131",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Top.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Side.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "45A050453DDAA9E87E96F1E8ECFBE110E5BB4BF1",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Side_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B2EDB6C33074EA9FE3FA2F8218AD8AAD8D6B5717",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceTrap_Shard.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D1810EFD6B42BB230BC1D63BABAC21DBE702432",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceSword.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "573D3FF9BDC4C4936B7520A0D5EBA0891C62FEC5",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastIcicles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C062314036B72ADD48596D544B40A6B429BC9337",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastFog.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E7A9A39EF618ECF180BF6FB6D8EB10F327D47028",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IB_Blood_Trans_subUV_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeFail_X.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_Emissive_02.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_03.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_02.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_01.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_03_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_02_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_01_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Splat_03_INST.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E91DEF162C5A9F287A76FD3767CA031B3471BE61",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_Trans.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ExploD_Trans_subUV_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_cracks_01_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Trans.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundPoison_Trans.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundIce_Trans.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundFire_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ED6CD002488314D350049064C1D7955A2E2F89D3",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_02_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9A408DCB868A9DAFDB1F0989AB6034E8FB23C6F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Heal_Add_2Sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7D443A8D54F234CB3A9ED388D834513E088674CE",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealSpiral_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EC4389F89315C40411052E5FA35152D2CCE05F1D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealBeam_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5024E4F911E4987A36F32D2F6C859982419D8724",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GroundCrack_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0C5F52FD0310CA667B67D3C1AD43BCB6F0E68D45",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01_2sided_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E7C0772DFF13D48C05B19D96CE763637AFF7DF47",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glowing_Eyes.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "552D20CDAD89B2C921D5C3585A677463ECC48E15",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeCoals_Fire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7C840EDD08966E260741F317A8D19833B038C3C3",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Orng_mobile.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Green_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "64F8C227C1BB5992071493DDC9F02D012D3636E0",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Blue_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "70A73C0923A98187D406A58C8E3F1013BE4D1950",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FogSheet_Trans.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlobShadow_01.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Water_Bucket_Cin04.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BA261D839E3321C10CAA8FC12D9C2249780B9247",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FlowingLava_HOT_red_Cool.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DE78C2AB8D98C7B04C1C5462D10F0DE45F2138C7",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_FlickerGlow_Forge.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "78F6C5854BC0EF6ECCFF4B2BA66BBA50E531B1D5",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_Pan_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F0168560E83032F9725AE4A0F2F752F16C993D4E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D3FD3BDC8DF8A375E236179371D98E64A9C6D53F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F17BF7B3E96210191EBFD9C61E42AE4BFF1C6C6F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5AB0E59A60267557A35B2FE8FF65B78E0DD3031C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_meshEmit_01.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "133FD14CF991473F34C8099D0E4E12A809D0ACFF",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_meshEmit.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_Blue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AEEE07F630D82F9CA9319031B8ABB57E109AA3E8",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A34BDF8FD67D910D4799B36A7BC4F2A218F602C1",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_DetailMask_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7F02D2FC60C688CF91EC6C45DF8D7044FDB4CB79",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Ribbon_Pan_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3C13D924C1622CBAEE1B3D6869F36B8960AF671C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2Sided_meshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D83C9EA154AC7107841489D4305CF2B6721975A6",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "51F035C7F8D5A1A52696ED4C003314BF253103B2",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_2Sided.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_DetailMask_meshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CB85033434C54AC7F9213937F443178416992E67",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_2side_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D77A577A29D84FABC525DEA95E3834044C59A64F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireWall_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9BDDBFA9F00458383FFF91EE9151CB506A0EE8A3",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSword_Add_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8D51FC2C19183B04DFB58CDD154D7A50C16CC61B",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky_moving.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "287B7FABFA841A77B5C0BD5E39B6B314FCBC48B0",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky_Moving.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "97CADCB009A1A1075CC508C847C9AB154AA91949",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_VertexAnim_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE61B15801920D87147F5C0DCAEA63939209B25F",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_FireBall_MeshEmit.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_FireBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C70DCDC98607237D08A5BAE612309DA844DA229C",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_2sided_meshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A00BDC676BA9F22C57E0E49D238D49F606EE38EF",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B966EE461E52900AD1937394EEAB31582F7A85CA",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBeam_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0B8C6DA02C44EA86840603E7A658CA4DB5D16251",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Fire_Unlit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0E068A2AFC6507B9A4E20294A94977768B8CF0EE",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Fire_Lit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B353F9478E80A8ADA71C81C5925482CE94CEA758",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundFire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "564469A553B9B63C57DC104A8B29300065A490EE",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ChargeMesh_mobile1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "768F55C61663C7CC83FCD41B6157668E14450134",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleGlow_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BF1B269C40BB9E684B54E19AC3C78666E3C69E1B",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleGlow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "341D9FFD05B727E2CD2D14523BC7B244C58ED3CA",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit_2Sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0243913A40B0F4811FDE5765695737B2F06767A5",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CA1C789618BBEBECBA7A9303DA5A31360F18E5D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_2sided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6B358C2ACA7600062066685A94F9B00C243F64E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastDir_Add_01_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3C77F309682803E1AC72258BCA955507DC38448A",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BladeSwipe04.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E93E796179CCFCF4AE6D9F8973A28E5C8BDA67D3",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Bats_Trans_mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A87C5563E7D25265A0E7344B777B0AC833EB7E43",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle_add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6F4C9B7E166CAE925F52B24DEA3286A5357A87E3",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BA0FA0669A0DFC8EEF848959CCD1A69D3666C838",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Unlit_EndGate.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "01C2FEE6FB81818D9E97A3DEF1F4963E8BB942EF",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Noise_Beam_01_IN_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9C72624F6B14E20EE7B20C92A62E43C1E81D3DA",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_DeathPlane_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "788F51BC9781F5941FB5E22A93CDEBE839BCA177",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_JaggedRockIce_MeshEmit_Blue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9BA57A24400C22938673D6EAD5AF69F95A7445B7",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_JaggedRockIce_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D1AC3EBA258C2D78218213AB177B5CF239F9D6A7",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceSkills_Base_Lit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EDFCF026FF4A3CE678A2797B7E1EBDBC1C85E440",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceShard.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B81E6B401C7E7A7C66933DE328566410BAEDF528",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceChunksBase.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E2D1153F19052BAA3A51881BF37F5C8DD7A09AD8",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastIcicles_Fade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C91BD2ACEAFF111E10788CD5AD41E6BE4B317A41",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Opaque_Hammer_Spin.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B78A77572A5AFB5B2138C550270127465EF5C161",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Impact_IB_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "65F64B6FCFE0870F3DA69777966284AE6F0E84A7",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Add_Unlit_TerminGlow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D08C3D940FDCBE6087F8D828A051EAF99F631DF1",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flash_Add.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flares.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "43DA97814C708ACBD72B3A6FC2F01CC8C883EDE1",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flares_Grid.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92F69A737EFE6D7C331F10704BA93AD7D8B73AD9",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3250171FA8CCBC9F814B359053B1B69D496F487D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1A8BD2B3E49DE2BA22C06A7E1D0E7FC4B3CC4DF2",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "578CB01493EE96BC478C85ACADC178975D49C65D",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshEmit.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "20FA93A863AA034CBA09ECEB4826E837EF180072",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Masked_Trans.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_2_Trans.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7E5B43CEED05FC467E4FA2157F801EC8E08A1315",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Trans_TilePan_2sided_meshEmit_02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "79FC5410E4FFB0BD68C030F7DC9A228490C4F9FC",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FBE89B92586EADC7C1C8B52341AC21E657A814C3",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Ausar_ShieldBlast_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A356033E6F766BBE0B29199F13392769047DAA30",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX/M_FogPlane03_add.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD31C7B8E1A2D49F6B93F3D8CC114C21A71CA956",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX/M_FogPlane03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CFC746BBDA20C3A03B27BAFA8A66152DEC6D03B",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX/M_FogPlane02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AE2B8C59EEEE73812D3FA5A4DD5379896C5AABCB",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX/M_FogPlane01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E14F81D293C29C4E3A0791B2F07EE35A909086F0",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX/M_Embers.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D68DC3E8F6B1ED24CFE515B0C259CA6975EF39B",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/InfinityBladeEffects/Effects/FX/M_BloomPlane.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BA5218B33748A1EED8F1766458239E2C6C9C912E",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_4_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "291D0E5FB71C0B7888EBB1475D7F6293920246F6",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_2_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "01BD947DBAA3B1E1EF51890F4B4CC744235B138A",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_1_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "756AA37D9A59C7C06507C0A8CC97F892C1668ACE",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_19_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1AEA5BDF4EE4467D20F30B03AD0CA5B1291C995",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_18_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "62D241FCB537302B0B43CCA0E5421F2370158168",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_16_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C871B60003C5DFF9975A25FAF66EB172FE419FA7",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_15_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8E6AAC8D1071BDA3ADF0C8CAFDDFACD6C6F1820A",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_14_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AEB883011E38099D21FC48B35EF121834A2B2AD2",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_13_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1FC38DAF75C6C5743337A54F6036D83BC9CE6645",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_12_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4CEDF0B955E2D39754142D3C218E165A40072DC5",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_11_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4AFEDE6950C2C6FD3DC3861F9788120ECC52DD80",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_10_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D6E23BE2CEEF27C30B6319A8D97D149B8456DBED",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_3_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F445C74642003CF7435D2221298D7BF833596296",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_20_Mobile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3EFA4BF862B3DE70024EEDDF2E2F4A5AD3A53EC6",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Materials/Mat_Flowers.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C50BA5BBCF857E4C96EAB856A85710406C707967",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Materials/MatLandscape.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7DCEC805F3B065E18E30548E396F52A5BBE3CFF8",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/StarterContent/Textures/T_Ground_Grass_Mat.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "A9769677DA10A2090E8B67FBED704306E3A0E421",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Model/Key/defaultMat.uasset"
@@ -905,6 +2572,15 @@
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Model/hair.uasset",
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/WingMT_ncl1_1.uasset",
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/WingMT.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CF75938039B5C15189F368945FFB16FCA67D45C5",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Glow_Sky.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_BrightOrange.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Canvas.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_2S_Pine.uasset"
 			]
 		},
 		{
@@ -920,15 +2596,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "23282772C450AD62C5679757710FFFEECD1D7BBA",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Waves.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "6CE27E7AB405A34B9B7847025A2C16CA0AD2E9D2",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_VolcanoSmoke.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "23282772C450AD62C5679757710FFFEECD1D7BBA",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Waves.uasset"
 			]
 		},
 		{
@@ -962,15 +2638,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CF75938039B5C15189F368945FFB16FCA67D45C5",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Glow_Sky.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_BrightOrange.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Canvas.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_2S_Pine.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "A2CFB6C8B24BC5EE07D1D7F33614D42D7D5802DA",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_LightShaft.uasset"
@@ -983,15 +2650,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "32F98B4383B491788B1B54AD0631921B2E5A1A2B",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Calm.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "E8BA5AD20DAF16B03E44885B5F33414917124990",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_WindSails.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32F98B4383B491788B1B54AD0631921B2E5A1A2B",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Calm.uasset"
 			]
 		},
 		{
@@ -1055,6 +2722,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2B8FF4811DEF740F4AD9F164D27E43D12B4C35E0",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/M_2Side_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9C602F0C36D392F5D1BCA10C6484E8827130B4CA",
+			"Assets": [
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Landscape/M_Landscape_LowPolyTropical.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "7D762A2CC25100D9B83C381A7DEFEEECAD4CED2F",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Base2.uasset"
@@ -1067,15 +2746,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2B8FF4811DEF740F4AD9F164D27E43D12B4C35E0",
+			"ShaderMapHash": "AFE67351CAD7B832C006D586D2928CCDEEA73148",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/M_2Side_Master.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "9C602F0C36D392F5D1BCA10C6484E8827130B4CA",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Landscape/M_Landscape_LowPolyTropical.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Character_Appearance_Dissolve/Materials/Mobile/M_Appearance_17_Mobile.uasset"
 			]
 		},
 		{
@@ -1091,8 +2764,8 @@
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/EyeRMT.uasset",
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/EyeLMT_ncl1_1.uasset",
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/EyeLMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/BodyMT_ncl1_6.uasset",
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/BodyMT_ncl1_5.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/BodyMT_ncl1_6.uasset",
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/BodyMT_ncl1_4.uasset",
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/BodyMT_ncl1_3.uasset",
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/Goomba/BodyMT_ncl1_1.uasset",
@@ -1106,47 +2779,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5A0BC7AD83F40EBDA903D52167D2644A53CEE9FE",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/MustacheMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/MouthMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/HandMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/HairPartsMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/HairMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/HairFaceMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/FaceMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/EyePupilRightMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/EyePupilLeftMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/EyeMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/EyeBallMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/CapMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/AnimationMario/BodyMT.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Animation/NewModelAnimation/Default_Material.uasset",
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Animation/NewModelAnimation/aiStandardSurface2.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "1119F9D0B29541E955928E3D11E0418F9FFB7E55",
 			"Assets": [
 				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Animation/NewModelAnimation/NewModelTexture/M_Standard.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "535631FC3CBA2B3E73E38EDE2FD25856F099EA93",
+			"ShaderMapHash": "5A0BC7AD83F40EBDA903D52167D2644A53CEE9FE",
 			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Maps/PreviewMap.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FAE151D64C60A075B72559920C44E9609E5B6978",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Maps/PreviewMap.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "ED6A4D21A0E0E45D6D5918FC52407E6D6E34A153",
-			"Assets": [
-				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Asset/PlantsPack/Maps/PreviewMap.uasset"
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Animation/NewModelAnimation/Default_Material.uasset",
+				"../../../../../GitHub/ALittleLightProject/ALittleLight-Project/Little Light 3D 4.26/Content/Animation/NewModelAnimation/aiStandardSurface2.uasset"
 			]
 		}
 	]
